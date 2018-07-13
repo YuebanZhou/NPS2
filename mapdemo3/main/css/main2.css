@@ -1,0 +1,271 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #eee;
+  color: #000;
+  height: 100%;
+  min-width: 1000px;
+}
+.con {
+  width: 900px;
+  margin: 0 auto;
+}
+.clearfix:after{
+  content:"";
+  height:0;
+  line-height:0;
+  display:block;
+  clear:both;
+  visibility:hidden;
+  }
+.top {
+  height: 100px;
+}
+.toptitle {
+  color: #000;
+  font-size: 30px;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%)
+}
+.enter1 {
+  position: absolute;
+  top: 34px;
+  right: 40px;
+  color: #000;
+  cursor: pointer;
+}
+.pm {
+  width: 900px;
+  margin: 20px auto;
+  /* height: 960px; */
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.btnzu1 {
+  float: left;
+}
+.btnzu2 {
+  float: right;
+}
+.five {
+  margin-top: 60px;
+}
+.five ul {
+  /* margin-left: 100px; */
+  margin: 0 auto;
+  width: 540px;
+}
+.five li {
+  list-style: none;
+  float: left;
+  position: relative;
+  text-align: center;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+.five li:nth-child(3){
+  margin-right: 0;
+}
+.five li div {
+  width: 150px;
+  height: 150px;
+  padding-top: 10px;
+  background-color: #fff;
+  display: inline-block;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  border: 5px dashed #87CEEB;
+  border-radius: 50px;
+  box-shadow: 10px 10px 10px #888;
+}
+.five li span {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%)
+}
+.five .num {
+  font-size: 40px;
+}
+.threepm {
+  margin-bottom: 50px;
+}
+.dec {
+  width: 80%;
+  margin: 50px auto;
+  height: 150px;
+  line-height: 80px;
+  border: 5px dashed #87CEEB;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #888;
+  background-color: #fff;
+}
+.dec div {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+.dec .num {
+  font-size: 40px;
+}
+
+#Template_listZ tr:hover {
+  background-color: #eee;
+}
+#tplWrapper_TemplateZ {
+  background-color: #fff;
+}
+.rang .th {
+  height: 30px;
+  line-height: 30px;
+  background-color: #fff;
+  color: #7496cd;
+}
+
+.rang th {
+  text-align: center;
+}
+.data {
+  /* height: 500px; */
+  width: 900px;
+  margin: 0 auto;
+}
+.tablemx {
+  box-shadow: 10px 10px 10px #888;
+  border: 5px dashed #87CEEB;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #fff;
+}
+.tablemx table {
+  width:100%;
+  text-align: center;
+  color: #6989db;
+  border: 0;
+}
+.tablemx tbody tr:hover {
+  background-color: #eee;
+}
+.tablemx tbody tr {
+  background-color: #fff;
+  height: 30px;
+  line-height: 30px;
+}
+.tablemx tbody tr td:first-child {
+  width: 150px;
+}
+.tablemx .th {
+  height: 25px;
+  line-height: 25px;
+  background-color: #fff;
+  color: #7496cd;
+}
+.tablemx th {
+  text-align: center;
+}
+.tablemx {
+  margin-bottom: 30px;
+}
+.btnzu3 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.talezbmx {
+  margin-top: 5px;
+  margin-bottom: 30px;
+  box-shadow: 10px 10px 10px #888;
+  border: 5px dashed #87CEEB;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #fff;
+
+}
+.talezbmx table {
+  width:100%;
+  text-align: center;
+  color: #6989db;
+  border: 0;
+}
+.talezbmx tbody tr:hover {
+  background-color: #eee;
+}
+.talezbmx tbody tr {
+  background-color: #fff;
+  height: 30px;
+  line-height: 30px;
+}
+.talezbmx tbody tr td:first-child {
+  width: 90px;
+}
+.talezbmx .th {
+  height: 30px;
+  line-height: 30px;
+  background-color: #fff;
+  color: #7496cd;
+}
+.talezbmx th {
+  text-align: center;
+}
+.yb {
+  width: 100%;
+  height: 300px;
+  background-color: #111;
+}
+.rang {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.child {
+  display: none;
+  color: #436CDE;
+}
+.parent td:first-child{
+  font-weight: bold;
+}
+.chart {
+  width: 900px;
+  margin: 20px auto;
+  position: relative;
+  height: 500px;
+}
+.chart div {
+  position: absolute;
+}
+#chart1 {
+  left: 10px;
+  top: 65px;
+}
+#chart2 {
+  right: 10px;
+  top: 10px;
+  background-color: #bbb
+}
+#chart3 {
+  right: 250px;
+  bottom: 10px;
+  background-color: #aaa
+}
+#chart4 {
+  right: 10px;
+  bottom: 10px;
+  background-color: #999
+}
+.img {
+  width: 400px;
+}
+.img img {
+  width: 100%;
+}
+.img2 {
+  display: none;
+}
+.img3 {
+  display: none;
+}
+.img4 {
+  display: none;
+}

@@ -1,0 +1,3218 @@
+{
+  "allRankKD": [
+    {
+      "QUARTER_FULFIL": 29.2119,
+      "rank": 1,
+      "PROVINCE_NAME": "山东",
+      "QUARTER_LIFT": "-2.5513850241546"
+    },
+    {
+      "QUARTER_FULFIL": 24.1319,
+      "rank": 2,
+      "PROVINCE_NAME": "河南",
+      "QUARTER_LIFT": "2.5391786877164"
+    },
+    {
+      "QUARTER_FULFIL": 20.048,
+      "rank": 3,
+      "PROVINCE_NAME": "山西",
+      "QUARTER_LIFT": "9.003223880597"
+    },
+    {
+      "QUARTER_FULFIL": 16.092,
+      "rank": 4,
+      "PROVINCE_NAME": "河北",
+      "QUARTER_LIFT": "13.8470411057386"
+    },
+    {
+      "QUARTER_FULFIL": 13.8996,
+      "rank": 5,
+      "PROVINCE_NAME": "天津",
+      "QUARTER_LIFT": "6.00818585858586"
+    },
+    {
+      "QUARTER_FULFIL": 12.6626,
+      "rank": 6,
+      "PROVINCE_NAME": "辽宁",
+      "QUARTER_LIFT": "-9.2710774145215"
+    },
+    {
+      "QUARTER_FULFIL": 12.585,
+      "rank": 7,
+      "PROVINCE_NAME": "青海",
+      "QUARTER_LIFT": "22.5929142384344"
+    },
+    {
+      "QUARTER_FULFIL": 10.9688,
+      "rank": 8,
+      "PROVINCE_NAME": "江苏",
+      "QUARTER_LIFT": "10.6872163851555"
+    },
+    {
+      "QUARTER_FULFIL": 10.4151,
+      "rank": 9,
+      "PROVINCE_NAME": "黑龙江",
+      "QUARTER_LIFT": "8.57530164796158"
+    },
+    {
+      "QUARTER_FULFIL": 10.3554,
+      "rank": 10,
+      "PROVINCE_NAME": "内蒙古",
+      "QUARTER_LIFT": "9.34305432098765"
+    },
+    {
+      "QUARTER_FULFIL": 10.1935,
+      "rank": 11,
+      "PROVINCE_NAME": "湖南",
+      "QUARTER_LIFT": "2.46738144244958"
+    },
+    {
+      "QUARTER_FULFIL": 8.545,
+      "rank": 12,
+      "PROVINCE_NAME": "海南",
+      "QUARTER_LIFT": "13.9871483427538"
+    },
+    {
+      "QUARTER_FULFIL": 6.4135,
+      "rank": 13,
+      "PROVINCE_NAME": "吉林",
+      "QUARTER_LIFT": "1.52147918861269"
+    },
+    {
+      "QUARTER_FULFIL": 5.6818,
+      "rank": 14,
+      "PROVINCE_NAME": "浙江",
+      "QUARTER_LIFT": "14.8307632751926"
+    },
+    {
+      "QUARTER_FULFIL": 4.6154,
+      "rank": 15,
+      "PROVINCE_NAME": "云南",
+      "QUARTER_LIFT": "8.04486235384726"
+    },
+    {
+      "QUARTER_FULFIL": 2.2291,
+      "rank": 16,
+      "PROVINCE_NAME": "北京",
+      "QUARTER_LIFT": "-9.3140103954146"
+    },
+    {
+      "QUARTER_FULFIL": 1.5535,
+      "rank": 17,
+      "PROVINCE_NAME": "安徽",
+      "QUARTER_LIFT": "4.3240412362397"
+    },
+    {
+      "QUARTER_FULFIL": 0.8978,
+      "rank": 18,
+      "PROVINCE_NAME": "贵州",
+      "QUARTER_LIFT": "4.93820404040404"
+    },
+    {
+      "QUARTER_FULFIL": -0.2404,
+      "rank": 19,
+      "PROVINCE_NAME": "新疆",
+      "QUARTER_LIFT": "7.45355561913608"
+    },
+    {
+      "QUARTER_FULFIL": -0.3462,
+      "rank": 20,
+      "PROVINCE_NAME": "重庆",
+      "QUARTER_LIFT": "9.7428347381369"
+    },
+    {
+      "QUARTER_FULFIL": -0.394,
+      "rank": 21,
+      "PROVINCE_NAME": "福建",
+      "QUARTER_LIFT": "9.7687748949839"
+    },
+    {
+      "QUARTER_FULFIL": -1.8974,
+      "rank": 22,
+      "PROVINCE_NAME": "湖北",
+      "QUARTER_LIFT": "8.1960634084683"
+    },
+    {
+      "QUARTER_FULFIL": -2.1026,
+      "rank": 23,
+      "PROVINCE_NAME": "陕西",
+      "QUARTER_LIFT": "-0.00500110053657998"
+    },
+    {
+      "QUARTER_FULFIL": -2.4138,
+      "rank": 24,
+      "PROVINCE_NAME": "江西",
+      "QUARTER_LIFT": "5.01433543908026"
+    },
+    {
+      "QUARTER_FULFIL": -7.1633,
+      "rank": 25,
+      "PROVINCE_NAME": "上海",
+      "QUARTER_LIFT": "6.2168538787893"
+    },
+    {
+      "QUARTER_FULFIL": -7.3007,
+      "rank": 26,
+      "PROVINCE_NAME": "广东",
+      "QUARTER_LIFT": "7.1026377345993"
+    },
+    {
+      "QUARTER_FULFIL": -7.4257,
+      "rank": 27,
+      "PROVINCE_NAME": "西藏",
+      "QUARTER_LIFT": "6.4851581565526"
+    },
+    {
+      "QUARTER_FULFIL": -7.7778,
+      "rank": 28,
+      "PROVINCE_NAME": "宁夏",
+      "QUARTER_LIFT": "5.8186349833291"
+    },
+    {
+      "QUARTER_FULFIL": -11.2164,
+      "rank": 29,
+      "PROVINCE_NAME": "甘肃",
+      "QUARTER_LIFT": "-1.77318194751042"
+    },
+    {
+      "QUARTER_FULFIL": -12.8109,
+      "rank": 30,
+      "PROVINCE_NAME": "四川",
+      "QUARTER_LIFT": "-0.9982818789834"
+    },
+    {
+      "QUARTER_FULFIL": -15.625,
+      "rank": 31,
+      "PROVINCE_NAME": "广西",
+      "QUARTER_LIFT": "-2.946313075315"
+    }
+  ],
+  "quotaUserTypeYW": [
+    {
+      "YEAR_Q": "18Q1",
+      "USER_TYPE": "有流量4G用户",
+      "U_NUM": "1936"
+    },
+    {
+      "YEAR_Q": "18Q1",
+      "USER_TYPE": "有流量非4G用户",
+      "U_NUM": "305"
+    },
+    {
+      "YEAR_Q": "18Q1",
+      "USER_TYPE": "纯语音用户",
+      "U_NUM": "131"
+    },
+    {
+      "YEAR_Q": "17Q4",
+      "USER_TYPE": "有流量4G用户",
+      "U_NUM": "1039"
+    },
+    {
+      "YEAR_Q": "17Q4",
+      "USER_TYPE": "有流量非4G用户",
+      "U_NUM": "225"
+    },
+    {
+      "YEAR_Q": "17Q4",
+      "USER_TYPE": "纯语音用户",
+      "U_NUM": "82"
+    }
+  ],
+  "npsKD": [
+    {
+      "M_K_NPS": "",
+      "U_NUM": "61",
+      "T_K_NPS": "",
+      "U_K_NPS": "90.1639",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 180.3278,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 90.1639,
+      "L_NAME": "受理后及时联系上门时间标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 90.1639,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.5740"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "1788",
+      "T_K_NPS": "",
+      "U_K_NPS": "9.3960",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 18.792,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 9.396,
+      "L_NAME": "网络标签",
+      "L1_NAME": "网络标签",
+      "COMPARE_T": 9.396,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "6.2585"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "76",
+      "T_K_NPS": "",
+      "U_K_NPS": "9.2105",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 18.421,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 9.2105,
+      "L_NAME": "宽带套餐设计标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": 9.2105,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.6260"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "119",
+      "T_K_NPS": "",
+      "U_K_NPS": "87.3950",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 174.79,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 87.395,
+      "L_NAME": "安装调试上门次数，安装时间标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 87.395,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.1197"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "194",
+      "T_K_NPS": "",
+      "U_K_NPS": "79.8969",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 159.7938,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 79.8969,
+      "L_NAME": "安装人员服务态度、业务技能标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 79.8969,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.8254"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "41",
+      "T_K_NPS": "",
+      "U_K_NPS": "78.0488",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 156.0976,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 78.0488,
+      "L_NAME": "交费方便快捷标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 78.0488,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.3858"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "362",
+      "T_K_NPS": "",
+      "U_K_NPS": "74.3094",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 148.6188,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 74.3094,
+      "L_NAME": "上门安装和调试",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 74.3094,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "3.4061"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "147",
+      "T_K_NPS": "",
+      "U_K_NPS": "70.7483",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 141.4966,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 70.7483,
+      "L_NAME": "工作人员按时上门标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 70.7483,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.3831"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "155",
+      "T_K_NPS": "",
+      "U_K_NPS": "63.2258",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 126.4516,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 63.2258,
+      "L_NAME": "修障人员服务态度、业务技能标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 63.2258,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.4584"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "164",
+      "T_K_NPS": "",
+      "U_K_NPS": "62.1951",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 124.3902,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 62.1951,
+      "L_NAME": "人员服务态度、业务技能标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 62.1951,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.5431"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "49",
+      "T_K_NPS": "",
+      "U_K_NPS": "55.1020",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 110.204,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 55.102,
+      "L_NAME": "受理业务的流程标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 55.102,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.4610"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "241",
+      "T_K_NPS": "",
+      "U_K_NPS": "54.7718",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 109.5436,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 54.7718,
+      "L_NAME": "业务咨询和办理",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 54.7718,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "2.2676"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "65",
+      "T_K_NPS": "",
+      "U_K_NPS": "52.3077",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 104.6154,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 52.3077,
+      "L_NAME": "受理渠道、办理方便标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 52.3077,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.6116"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "327",
+      "T_K_NPS": "",
+      "U_K_NPS": "50.4587",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 100.9174,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 50.4587,
+      "L_NAME": "维修人员按照约定的时间上门标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 50.4587,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "3.0768"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "8",
+      "T_K_NPS": "",
+      "U_K_NPS": "50.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 100.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 50.0,
+      "L_NAME": "电子渠道或互联网渠道受理业务的流程标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 50.0,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.0753"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "93",
+      "T_K_NPS": "",
+      "U_K_NPS": "5.3763",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 10.7526,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 5.3763,
+      "L_NAME": "上网无故障标签",
+      "L1_NAME": "网络标签",
+      "COMPARE_T": 5.3763,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.4187"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "992",
+      "T_K_NPS": "",
+      "U_K_NPS": "44.2540",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 88.508,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 44.254,
+      "L_NAME": "服务标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 44.254,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "3.4723"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "190",
+      "T_K_NPS": "",
+      "U_K_NPS": "44.2105",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 88.421,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 44.2105,
+      "L_NAME": "故障修复的速度标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 44.2105,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.7877"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "112",
+      "T_K_NPS": "",
+      "U_K_NPS": "41.0714",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 82.1428,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 41.0714,
+      "L_NAME": "维修人员及时联系用户标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 41.0714,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.0538"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "645",
+      "T_K_NPS": "",
+      "U_K_NPS": "39.0698",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 78.1396,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 39.0698,
+      "L_NAME": "故障处理",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 39.0698,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "6.0689"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "83",
+      "T_K_NPS": "",
+      "U_K_NPS": "38.5542",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 77.1084,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 38.5542,
+      "L_NAME": "服务其它部分",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 38.5542,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.7810"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "604",
+      "T_K_NPS": "",
+      "U_K_NPS": "3.4768",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 6.9536,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 3.4768,
+      "L_NAME": "上网速度稳定性标签",
+      "L1_NAME": "网络标签",
+      "COMPARE_T": 3.4768,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "2.7195"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "31",
+      "T_K_NPS": "",
+      "U_K_NPS": "3.2258",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 6.4516,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 3.2258,
+      "L_NAME": "促销活动和宣传标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": 3.2258,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.2553"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "48",
+      "T_K_NPS": "",
+      "U_K_NPS": "22.9167",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 45.8334,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 22.9167,
+      "L_NAME": "故障申报渠道畅通标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 22.9167,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.4516"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "40",
+      "T_K_NPS": "",
+      "U_K_NPS": "22.5000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 45.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 22.5,
+      "L_NAME": "提醒服务做得好、不会不合理停机标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 22.5,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.3764"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "23",
+      "T_K_NPS": "",
+      "U_K_NPS": "21.7391",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 43.4782,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 21.7391,
+      "L_NAME": "账详单清晰明了标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 21.7391,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.2164"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "1028",
+      "T_K_NPS": "",
+      "U_K_NPS": "17.4125",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 34.825,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 17.4125,
+      "L_NAME": "上网速度标签",
+      "L1_NAME": "网络标签",
+      "COMPARE_T": 17.4125,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "4.6285"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "213",
+      "T_K_NPS": "",
+      "U_K_NPS": "15.0235",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 30.047,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 15.0235,
+      "L_NAME": "网速达标标签",
+      "L1_NAME": "网络标签",
+      "COMPARE_T": 15.0235,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.9590"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "40",
+      "T_K_NPS": "",
+      "U_K_NPS": "15.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 30.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 15.0,
+      "L_NAME": "故障修复的质量标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 15.0,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.3764"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "2279",
+      "T_K_NPS": "",
+      "U_K_NPS": "10.3554",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 20.7108,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 10.3554,
+      "L_NAME": "整体",
+      "L1_NAME": "整体",
+      "COMPARE_T": 10.3554,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": ""
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "41",
+      "T_K_NPS": "",
+      "U_K_NPS": "-9.7561",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -19.5122,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -9.7561,
+      "L_NAME": "融合业务套餐设计标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": -9.7561,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.3377"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "16",
+      "T_K_NPS": "",
+      "U_K_NPS": "-6.2500",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -12.5,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -6.25,
+      "L_NAME": "市场主流品牌、光纤覆盖率广、升级光纤方便标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": -6.25,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.1318"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "19",
+      "T_K_NPS": "",
+      "U_K_NPS": "-52.6316",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -105.2632,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -52.6316,
+      "L_NAME": "终端标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": -52.6316,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.1565"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "281",
+      "T_K_NPS": "",
+      "U_K_NPS": "-3.9146",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -7.8292,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -3.9146,
+      "L_NAME": "上网连接稳定性标签",
+      "L1_NAME": "网络标签",
+      "COMPARE_T": -3.9146,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "1.2652"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "1056",
+      "T_K_NPS": "",
+      "U_K_NPS": "-3.1250",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -6.25,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -3.125,
+      "L_NAME": "业务标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": -3.125,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "3.6963"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "92",
+      "T_K_NPS": "",
+      "U_K_NPS": "-23.9130",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -47.826,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -23.913,
+      "L_NAME": "家庭互联网应用及服务产品设计标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": -23.913,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.7578"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "926",
+      "T_K_NPS": "",
+      "U_K_NPS": "-2.9158",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -5.8316,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -2.9158,
+      "L_NAME": "价格水平标签",
+      "L1_NAME": "业务标签",
+      "COMPARE_T": -2.9158,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "7.6270"
+    },
+    {
+      "M_K_NPS": "",
+      "U_NUM": "9",
+      "T_K_NPS": "",
+      "U_K_NPS": "",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 0.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 0.0,
+      "L_NAME": "电子渠道或互联网渠道交费快捷标签",
+      "L1_NAME": "服务标签",
+      "COMPARE_T": 0.0,
+      "HB": "4.6474681987",
+      "U_K_REFERENCE_RATE": "0.0847"
+    }
+  ],
+  "quotaUserTypeKD": [
+    {
+      "USER_TYPE": "FTTH且未安装IPTV",
+      "U_NUM": "991"
+    },
+    {
+      "USER_TYPE": "LAN",
+      "U_NUM": "0"
+    },
+    {
+      "USER_TYPE": "XDSL",
+      "U_NUM": "0"
+    },
+    {
+      "USER_TYPE": "FTTH且安装IPTV",
+      "U_NUM": "1288"
+    }
+  ],
+  "quotaSexKD": [
+    {
+      "SEX": "女",
+      "count": "724"
+    },
+    {
+      "SEX": "男",
+      "count": "1555"
+    }
+  ],
+  "npsCityKDYW": [
+    {
+      "COMPARE_M": -2.9787,
+      "M_K_NPS": "20.0000",
+      "CITY_ID": "V0152200",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "兴安盟",
+      "T_K_NPS": "33.3333",
+      "U_K_NPS": 17.0213,
+      "COMPARE_T": -16.312,
+      "COMPETITION_GAP": -19.2907
+    },
+    {
+      "COMPARE_M": -12.2549,
+      "M_K_NPS": "25.0000",
+      "CITY_ID": "V0152500",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "锡林郭勒",
+      "T_K_NPS": "0.0000",
+      "U_K_NPS": 12.7451,
+      "COMPARE_T": 12.7451,
+      "COMPETITION_GAP": 0.4902000000000015
+    },
+    {
+      "COMPARE_M": 5.1948,
+      "M_K_NPS": "0.0000",
+      "CITY_ID": "V0152600",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "乌兰察布",
+      "T_K_NPS": "50.0000",
+      "U_K_NPS": 5.1948,
+      "COMPARE_T": -44.8052,
+      "COMPETITION_GAP": -39.6104
+    },
+    {
+      "COMPARE_M": -4.3980999999999995,
+      "M_K_NPS": "6.2500",
+      "CITY_ID": "V0150400",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "赤峰",
+      "T_K_NPS": "0.0000",
+      "U_K_NPS": 1.8519,
+      "COMPARE_T": 1.8519,
+      "COMPETITION_GAP": -2.5462
+    },
+    {
+      "COMPARE_M": -13.1746,
+      "M_K_NPS": "14.2857",
+      "CITY_ID": "V0152700",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "鄂尔多斯",
+      "T_K_NPS": "17.6471",
+      "U_K_NPS": 1.1111,
+      "COMPARE_T": -16.535999999999998,
+      "COMPETITION_GAP": -29.7106
+    },
+    {
+      "COMPARE_M": -23.9216,
+      "M_K_NPS": "20.0000",
+      "CITY_ID": "V0150200",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "包头",
+      "T_K_NPS": "11.1111",
+      "U_K_NPS": -3.9216,
+      "COMPARE_T": -15.0327,
+      "COMPETITION_GAP": -38.9543
+    },
+    {
+      "COMPARE_M": -4.2857,
+      "M_K_NPS": "0.0000",
+      "CITY_ID": "V0150300",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "乌海",
+      "T_K_NPS": "0.0000",
+      "U_K_NPS": -4.2857,
+      "COMPARE_T": -4.2857,
+      "COMPETITION_GAP": -8.5714
+    },
+    {
+      "COMPARE_M": -6.4516,
+      "M_K_NPS": "0.0000",
+      "CITY_ID": "V0152302",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "呼伦贝尔",
+      "T_K_NPS": "0.0000",
+      "U_K_NPS": -6.4516,
+      "COMPARE_T": -6.4516,
+      "COMPETITION_GAP": -12.9032
+    },
+    {
+      "COMPARE_M": 5.4167000000000005,
+      "M_K_NPS": "-20.0000",
+      "CITY_ID": "V0150100",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "呼和浩特",
+      "T_K_NPS": "-11.1111",
+      "U_K_NPS": -14.5833,
+      "COMPARE_T": -3.472199999999999,
+      "COMPETITION_GAP": 1.9445000000000014
+    },
+    {
+      "COMPARE_M": -78.9706,
+      "M_K_NPS": "62.5000",
+      "CITY_ID": "V0152800",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "巴彦淖尔",
+      "T_K_NPS": "28.5714",
+      "U_K_NPS": -16.4706,
+      "COMPARE_T": -45.042,
+      "COMPETITION_GAP": -124.0126
+    },
+    {
+      "COMPARE_M": -59.0,
+      "M_K_NPS": "40.0000",
+      "CITY_ID": "V0152301",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "通辽",
+      "T_K_NPS": "0.0000",
+      "U_K_NPS": -19.0,
+      "COMPARE_T": -19.0,
+      "COMPETITION_GAP": -78.0
+    },
+    {
+      "COMPARE_M": -23.0769,
+      "M_K_NPS": "0.0000",
+      "CITY_ID": "V0152900",
+      "L1_NAME": "业务标签",
+      "U_K_NUM": "",
+      "CITY_NAME": "阿盟",
+      "T_K_NPS": "0.0000",
+      "U_K_NPS": -23.0769,
+      "COMPARE_T": -23.0769,
+      "COMPETITION_GAP": -46.1538
+    }
+  ],
+  "npsYW": [
+    {
+      "U_NUM": "138",
+      "T_NPS": "95.8333",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -2.9480000000000075,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -2.0422000000000082,
+      "L_NAME": "充值缴费方便快捷标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "96.9697",
+      "COMPARE_T": -0.9057999999999993,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "16.0839",
+      "U_NPS": "94.9275"
+    },
+    {
+      "U_NUM": "21",
+      "T_NPS": "75.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 5.9524000000000115,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -9.523799999999994,
+      "L_NAME": "电子渠道在线服务人员态度和技能标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "100.0000",
+      "COMPARE_T": 15.476200000000006,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "2.4476",
+      "U_NPS": "90.4762"
+    },
+    {
+      "U_NUM": "742",
+      "T_NPS": "29.2237",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -74.4693,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -55.0839,
+      "L_NAME": "室内语音信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "64.9222",
+      "COMPARE_T": -19.3854,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "42.3274",
+      "U_NPS": "9.8383"
+    },
+    {
+      "U_NUM": "1753",
+      "T_NPS": "21.3537",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -53.315,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -41.5449,
+      "L_NAME": "网络标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "51.1285",
+      "COMPARE_T": -11.7701,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "73.9039",
+      "U_NPS": "9.5836"
+    },
+    {
+      "U_NUM": "129",
+      "T_NPS": "82.4074",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 3.9517000000000024,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -2.7882000000000033,
+      "L_NAME": "热线服务人员态度和技能标签 ",
+      "L1_NAME": "服务标签",
+      "M_NPS": "91.9355",
+      "COMPARE_T": 6.739900000000006,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "15.0350",
+      "U_NPS": "89.1473"
+    },
+    {
+      "U_NUM": "65",
+      "T_NPS": "61.0169",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 6.937600000000003,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -12.045500000000004,
+      "L_NAME": "热线业务办理方便快捷标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "92.0455",
+      "COMPARE_T": 18.9831,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "7.5758",
+      "U_NPS": "80.0000"
+    },
+    {
+      "U_NUM": "152",
+      "T_NPS": "75.9494",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 7.211900000000014,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 4.8718000000000075,
+      "L_NAME": "营业厅业务办理方便快捷标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "73.4177",
+      "COMPARE_T": 2.3401000000000067,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "17.7156",
+      "U_NPS": "78.2895"
+    },
+    {
+      "U_NUM": "208",
+      "T_NPS": "67.2414",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 1.5086000000000013,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -6.25,
+      "L_NAME": "服务人员态度、技能标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "81.2500",
+      "COMPARE_T": 7.758600000000001,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "24.2424",
+      "U_NPS": "75.0000"
+    },
+    {
+      "U_NUM": "423",
+      "T_NPS": "63.7500",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 4.325000000000017,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -6.39309999999999,
+      "L_NAME": "业务办理方便快捷标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "80.8612",
+      "COMPARE_T": 10.718100000000007,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "49.3007",
+      "U_NPS": "74.4681"
+    },
+    {
+      "U_NUM": "257",
+      "T_NPS": "58.4906",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 8.844399999999993,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -6.2059,
+      "L_NAME": "电子渠道业务办理方便快捷标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "79.7468",
+      "COMPARE_T": 15.050299999999993,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "29.9534",
+      "U_NPS": "73.5409"
+    },
+    {
+      "U_NUM": "291",
+      "T_NPS": "57.1429",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 8.68610000000001,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -7.710499999999996,
+      "L_NAME": "电子渠道整体服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "81.2500",
+      "COMPARE_T": 16.396600000000007,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "33.9161",
+      "U_NPS": "73.5395"
+    },
+    {
+      "U_NUM": "277",
+      "T_NPS": "56.1404",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 12.849599999999995,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -3.5732,
+      "L_NAME": "电子渠道体验",
+      "L1_NAME": "服务标签",
+      "M_NPS": "76.1364",
+      "COMPARE_T": 16.422799999999995,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "32.2844",
+      "U_NPS": "72.5632"
+    },
+    {
+      "U_NUM": "279",
+      "T_NPS": "",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 144.8028,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 72.4014,
+      "L_NAME": "电子渠道整体服务（在线客服仅2I）",
+      "L1_NAME": "服务标签",
+      "M_NPS": "",
+      "COMPARE_T": 72.4014,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "32.5175",
+      "U_NPS": "72.4014"
+    },
+    {
+      "U_NUM": "451",
+      "T_NPS": "25.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -48.4264,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -31.1869,
+      "L_NAME": "上网信号稳定性标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "38.9474",
+      "COMPARE_T": -17.2395,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "25.7273",
+      "U_NPS": "7.7605"
+    },
+    {
+      "U_NUM": "183",
+      "T_NPS": "58.5106",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 14.832700000000003,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 3.9444000000000017,
+      "L_NAME": "营业厅体验标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "65.4545",
+      "COMPARE_T": 10.888300000000001,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "21.3287",
+      "U_NPS": "69.3989"
+    },
+    {
+      "U_NUM": "45",
+      "T_NPS": "25.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 68.33340000000001,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 26.666700000000006,
+      "L_NAME": "电子渠道界面设计、业务告知标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "40.0000",
+      "COMPARE_T": 41.666700000000006,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "5.2448",
+      "U_NPS": "66.6667"
+    },
+    {
+      "U_NUM": "246",
+      "T_NPS": "57.0588",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 2.9410999999999916,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -3.4147000000000034,
+      "L_NAME": "营业厅整体服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "66.8293",
+      "COMPARE_T": 6.355800000000002,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "28.6713",
+      "U_NPS": "63.4146"
+    },
+    {
+      "U_NUM": "479",
+      "T_NPS": "46.5241",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 13.430299999999995,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -1.841000000000001,
+      "L_NAME": "业务办理方便快捷（三渠道含业务规则）",
+      "L1_NAME": "服务标签",
+      "M_NPS": "63.6364",
+      "COMPARE_T": 15.271300000000004,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "55.8275",
+      "U_NPS": "61.7954"
+    },
+    {
+      "U_NUM": "5",
+      "T_NPS": "",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 120.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 60.0,
+      "L_NAME": "电子渠道在线服务人员态度和技能（仅2I）",
+      "L1_NAME": "服务标签",
+      "M_NPS": "",
+      "COMPARE_T": 60.0,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.5828",
+      "U_NPS": "60.0000"
+    },
+    {
+      "U_NUM": "105",
+      "T_NPS": "62.0690",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -15.308400000000006,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -13.239400000000003,
+      "L_NAME": "营业厅服务人员态度和技能标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "73.2394",
+      "COMPARE_T": -2.0690000000000026,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "12.2378",
+      "U_NPS": "60.0000"
+    },
+    {
+      "U_NUM": "419",
+      "T_NPS": "23.5589",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -90.2731,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -73.1581,
+      "L_NAME": "语音信号覆盖标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "79.6020",
+      "COMPARE_T": -17.115000000000002,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "23.9019",
+      "U_NPS": "6.4439"
+    },
+    {
+      "U_NUM": "29",
+      "T_NPS": "0.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 45.4465,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -13.174199999999999,
+      "L_NAME": "账详单、发票获取便捷标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "71.7949",
+      "COMPARE_T": 58.6207,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "3.3800",
+      "U_NPS": "58.6207"
+    },
+    {
+      "U_NUM": "236",
+      "T_NPS": "57.5000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -27.191999999999993,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -28.166599999999995,
+      "L_NAME": "热线整体服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "86.6412",
+      "COMPARE_T": 0.9746000000000024,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "27.5058",
+      "U_NPS": "58.4746"
+    },
+    {
+      "U_NUM": "7",
+      "T_NPS": "66.6667",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 4.761999999999986,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 14.285799999999995,
+      "L_NAME": "宣传标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "42.8571",
+      "COMPARE_T": -9.523800000000008,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.6329",
+      "U_NPS": "57.1429"
+    },
+    {
+      "U_NUM": "7",
+      "T_NPS": "-100.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 114.2858,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -42.8571,
+      "L_NAME": "业务办理成功率标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "100.0000",
+      "COMPARE_T": 157.1429,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.8159",
+      "U_NPS": "57.1429"
+    },
+    {
+      "U_NUM": "606",
+      "T_NPS": "22.6506",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 94.4468,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 66.60239999999999,
+      "L_NAME": "价格水平标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-16.1074",
+      "COMPARE_T": 27.844399999999997,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "54.7920",
+      "U_NPS": "50.4950"
+    },
+    {
+      "U_NUM": "858",
+      "T_NPS": "38.6694",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -1.4141000000000048,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -13.0944,
+      "L_NAME": "服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "63.4441",
+      "COMPARE_T": 11.680299999999995,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "36.1720",
+      "U_NPS": "50.3497"
+    },
+    {
+      "U_NUM": "1294",
+      "T_NPS": "15.7658",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -39.8068,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -29.527900000000002,
+      "L_NAME": "上网标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "35.0148",
+      "COMPARE_T": -10.2789,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "73.8163",
+      "U_NPS": "5.4869"
+    },
+    {
+      "U_NUM": "552",
+      "T_NPS": "23.7981",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 75.1888,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 53.697,
+      "L_NAME": "套餐设计标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-8.4071",
+      "COMPARE_T": 21.4918,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "49.9096",
+      "U_NPS": "45.2899"
+    },
+    {
+      "U_NUM": "149",
+      "T_NPS": "32.5301",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -32.8148,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -42.5666,
+      "L_NAME": "热线服务",
+      "L1_NAME": "服务标签",
+      "M_NPS": "84.8485",
+      "COMPARE_T": 9.751800000000003,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "17.3660",
+      "U_NPS": "42.2819"
+    },
+    {
+      "U_NUM": "1384",
+      "T_NPS": "19.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -57.3198,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -42.8718,
+      "L_NAME": "室内信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "47.4238",
+      "COMPARE_T": -14.448,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "78.9504",
+      "U_NPS": "4.5520"
+    },
+    {
+      "U_NUM": "148",
+      "T_NPS": "39.3443",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -15.936499999999995,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -13.078699999999998,
+      "L_NAME": "促销活动和宣传标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "49.5652",
+      "COMPARE_T": -2.8577999999999975,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "13.3816",
+      "U_NPS": "36.4865"
+    },
+    {
+      "U_NUM": "1106",
+      "T_NPS": "21.2644",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 55.57250000000001,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 40.399300000000004,
+      "L_NAME": "业务标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-3.9617",
+      "COMPARE_T": 15.173200000000005,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "46.6273",
+      "U_NPS": "36.4376"
+    },
+    {
+      "U_NUM": "270",
+      "T_NPS": "",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 71.8518,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 35.9259,
+      "L_NAME": "与互联网公司合作的产品标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "",
+      "COMPARE_T": 35.9259,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "24.4123",
+      "U_NPS": "35.9259"
+    },
+    {
+      "U_NUM": "163",
+      "T_NPS": "27.8846",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -13.861899999999999,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -21.5601,
+      "L_NAME": "提醒服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "57.1429",
+      "COMPARE_T": 7.6982,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "18.9977",
+      "U_NPS": "35.5828"
+    },
+    {
+      "U_NUM": "142",
+      "T_NPS": "38.6555",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -20.100200000000008,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -15.951700000000002,
+      "L_NAME": "促销活动标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "50.4587",
+      "COMPARE_T": -4.148500000000006,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "12.8391",
+      "U_NPS": "34.5070"
+    },
+    {
+      "U_NUM": "700",
+      "T_NPS": "44.5652",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -59.692,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -47.4125,
+      "L_NAME": "室外语音信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "79.6982",
+      "COMPARE_T": -12.279499999999999,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "39.9315",
+      "U_NPS": "32.2857"
+    },
+    {
+      "U_NUM": "41",
+      "T_NPS": "0.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 8.512599999999999,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -23.1947,
+      "L_NAME": "账详单、发票获取便捷、清晰明了标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "54.9020",
+      "COMPARE_T": 31.7073,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "4.7786",
+      "U_NPS": "31.7073"
+    },
+    {
+      "U_NUM": "41",
+      "T_NPS": "0.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 4.482500000000002,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -24.7858,
+      "L_NAME": "营业厅现场运营服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "54.0541",
+      "COMPARE_T": 29.2683,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "4.7786",
+      "U_NPS": "29.2683"
+    },
+    {
+      "U_NUM": "84",
+      "T_NPS": "0.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 97.8389,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 70.4579,
+      "L_NAME": "流量包标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-43.0769",
+      "COMPARE_T": 27.381,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "7.5949",
+      "U_NPS": "27.3810"
+    },
+    {
+      "U_NUM": "788",
+      "T_NPS": "44.1413",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -61.98530000000001,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -43.98610000000001,
+      "L_NAME": "语音信号稳定性标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "70.1282",
+      "COMPARE_T": -17.999200000000002,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "44.9515",
+      "U_NPS": "26.1421"
+    },
+    {
+      "U_NUM": "43",
+      "T_NPS": "0.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -0.7603000000000009,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -26.3417,
+      "L_NAME": "账详单、发票方便获取，收费明晰（含渠道查询）",
+      "L1_NAME": "服务标签",
+      "M_NPS": "51.9231",
+      "COMPARE_T": 25.5814,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "5.0117",
+      "U_NPS": "25.5814"
+    },
+    {
+      "U_NUM": "1193",
+      "T_NPS": "31.7410",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -49.17000000000001,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -41.73750000000001,
+      "L_NAME": "室外信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "66.0460",
+      "COMPARE_T": -7.432500000000001,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "68.0548",
+      "U_NPS": "24.3085"
+    },
+    {
+      "U_NUM": "92",
+      "T_NPS": "-12.9032",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -22.9854,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -56.5408,
+      "L_NAME": "热线运营服务标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "77.1930",
+      "COMPARE_T": 33.5554,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "10.7226",
+      "U_NPS": "20.6522"
+    },
+    {
+      "U_NUM": "801",
+      "T_NPS": "24.9191",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -36.4938,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -31.6746,
+      "L_NAME": "室外上网信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "51.7745",
+      "COMPARE_T": -4.819199999999999,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "45.6931",
+      "U_NPS": "20.0999"
+    },
+    {
+      "U_NUM": "809",
+      "T_NPS": "31.5582",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -35.9308,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -20.9363,
+      "L_NAME": "上网速度标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "37.5000",
+      "COMPARE_T": -14.994499999999999,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "46.1495",
+      "U_NPS": "16.5637"
+    },
+    {
+      "U_NUM": "1017",
+      "T_NPS": "32.7751",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -69.51650000000001,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -52.5723,
+      "L_NAME": "语音标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "68.4032",
+      "COMPARE_T": -16.944200000000002,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "58.0148",
+      "U_NPS": "15.8309"
+    },
+    {
+      "U_NUM": "2372",
+      "T_NPS": "18.0877",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -18.521600000000003,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -15.442300000000001,
+      "L_NAME": "整体",
+      "L1_NAME": "整体",
+      "M_NPS": "30.4507",
+      "COMPARE_T": -3.0793000000000017,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "",
+      "U_NPS": "15.0084"
+    },
+    {
+      "U_NUM": "2",
+      "T_NPS": "",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 200.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 100.0,
+      "L_NAME": "定向流量包标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "",
+      "COMPARE_T": 100.0,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.1808",
+      "U_NPS": "100.0000"
+    },
+    {
+      "U_NUM": "57",
+      "T_NPS": "100.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 0.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 0.0,
+      "L_NAME": "支持第三方充值缴费或第三方充值缴费标签使用非常方便",
+      "L1_NAME": "服务标签",
+      "M_NPS": "100.0000",
+      "COMPARE_T": 0.0,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "6.6434",
+      "U_NPS": "100.0000"
+    },
+    {
+      "U_NUM": "1017",
+      "T_NPS": "11.1111",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -40.2231,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -29.702,
+      "L_NAME": "室内上网信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "30.2920",
+      "COMPARE_T": -10.5211,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "58.0148",
+      "U_NPS": "0.5900"
+    },
+    {
+      "U_NUM": "7",
+      "T_NPS": "-18.1818",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 73.7374,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 55.5556,
+      "L_NAME": "信息安全标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "-55.5556",
+      "COMPARE_T": 18.1818,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.8159",
+      "U_NPS": "0.0000"
+    },
+    {
+      "U_NUM": "35",
+      "T_NPS": "-15.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -65.4761,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -31.9047,
+      "L_NAME": "计费准确标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-16.6667",
+      "COMPARE_T": -33.5714,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "3.1646",
+      "U_NPS": "-48.5714"
+    },
+    {
+      "U_NUM": "43",
+      "T_NPS": "-21.6216",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -6.813899999999997,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -2.854099999999999,
+      "L_NAME": "不知情定制/乱收费/乱扣费方面标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-22.7273",
+      "COMPARE_T": -3.9597999999999978,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "3.8879",
+      "U_NPS": "-25.5814"
+    },
+    {
+      "U_NUM": "4",
+      "T_NPS": "-66.6667",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 45.2381,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 3.5714000000000006,
+      "L_NAME": "投诉解决标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "-28.5714",
+      "COMPARE_T": 41.666700000000006,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.4662",
+      "U_NPS": "-25.0000"
+    },
+    {
+      "U_NUM": "133",
+      "T_NPS": "-25.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -18.501600000000003,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -18.689600000000002,
+      "L_NAME": "4G上网信号标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "-6.1224",
+      "COMPARE_T": 0.18799999999999883,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "7.5870",
+      "U_NPS": "-24.8120"
+    },
+    {
+      "U_NUM": "14",
+      "T_NPS": "10.0000",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -71.6072,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -40.1786,
+      "L_NAME": "账详单、发票清晰明了能看懂标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "18.7500",
+      "COMPARE_T": -31.4286,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "1.6317",
+      "U_NPS": "-21.4286"
+    },
+    {
+      "U_NUM": "6",
+      "T_NPS": "-28.5714",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 45.238,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 33.3333,
+      "L_NAME": "终端标签",
+      "L1_NAME": "业务标签",
+      "M_NPS": "-50.0000",
+      "COMPARE_T": 11.904700000000002,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.5425",
+      "U_NPS": "-16.6667"
+    },
+    {
+      "U_NUM": "70",
+      "T_NPS": "-57.5758",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": 42.8139,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 0.952399999999999,
+      "L_NAME": "业务规则设计合理标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "-16.6667",
+      "COMPARE_T": 41.8615,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "8.1585",
+      "U_NPS": "-15.7143"
+    },
+    {
+      "U_NUM": "292",
+      "T_NPS": "-0.3690",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -75.1485,
+      "TB": "9.34428888890333",
+      "COMPARE_M": -61.8189,
+      "L_NAME": "上网信号覆盖标签",
+      "L1_NAME": "网络标签",
+      "M_NPS": "48.1203",
+      "COMPARE_T": -13.329600000000001,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "16.6572",
+      "U_NPS": "-13.6986"
+    },
+    {
+      "U_NUM": "2",
+      "T_NPS": "",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -100.0,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 0.0,
+      "L_NAME": "各渠道查询结果一致标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "-100.0000",
+      "COMPARE_T": -100.0,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.2331",
+      "U_NPS": "-100.0000"
+    },
+    {
+      "U_NUM": "0",
+      "T_NPS": "90.9091",
+      "PROVINCE_NAME": "内蒙古",
+      "COMPETITION_GAP": -90.9091,
+      "TB": "9.34428888890333",
+      "COMPARE_M": 0.0,
+      "L_NAME": "沃钱包方便快捷、优惠活动多标签",
+      "L1_NAME": "服务标签",
+      "M_NPS": "",
+      "COMPARE_T": -90.9091,
+      "HB": "4.6474681987",
+      "U_REFERENCE_RATE": "0.0000",
+      "U_NPS": ""
+    }
+  ],
+  "allRankYW": [
+    {
+      "QUARTER_FULFIL": 23.2683,
+      "rank": 1,
+      "PROVINCE_NAME": "山东",
+      "QUARTER_LIFT": "6.1394780766156"
+    },
+    {
+      "QUARTER_FULFIL": 16.8156,
+      "rank": 2,
+      "PROVINCE_NAME": "河南",
+      "QUARTER_LIFT": "0.443072139381599"
+    },
+    {
+      "QUARTER_FULFIL": 15.0084,
+      "rank": 3,
+      "PROVINCE_NAME": "内蒙古",
+      "QUARTER_LIFT": "11.2917686302194"
+    },
+    {
+      "QUARTER_FULFIL": 13.7439,
+      "rank": 4,
+      "PROVINCE_NAME": "山西",
+      "QUARTER_LIFT": "4.51730738514734"
+    },
+    {
+      "QUARTER_FULFIL": 12.792,
+      "rank": 5,
+      "PROVINCE_NAME": "宁夏",
+      "QUARTER_LIFT": "13.1495650118203"
+    },
+    {
+      "QUARTER_FULFIL": 12.2894,
+      "rank": 6,
+      "PROVINCE_NAME": "天津",
+      "QUARTER_LIFT": "4.76115885248008"
+    },
+    {
+      "QUARTER_FULFIL": 12.2145,
+      "rank": 7,
+      "PROVINCE_NAME": "青海",
+      "QUARTER_LIFT": "5.37609267543204"
+    },
+    {
+      "QUARTER_FULFIL": 12.1702,
+      "rank": 8,
+      "PROVINCE_NAME": "新疆",
+      "QUARTER_LIFT": "3.77356604037473"
+    },
+    {
+      "QUARTER_FULFIL": 10.2719,
+      "rank": 9,
+      "PROVINCE_NAME": "河北",
+      "QUARTER_LIFT": "10.4275794665311"
+    },
+    {
+      "QUARTER_FULFIL": 10.161,
+      "rank": 10,
+      "PROVINCE_NAME": "辽宁",
+      "QUARTER_LIFT": "-6.8022411690356"
+    },
+    {
+      "QUARTER_FULFIL": 9.6751,
+      "rank": 11,
+      "PROVINCE_NAME": "海南",
+      "QUARTER_LIFT": "9.3889305570793"
+    },
+    {
+      "QUARTER_FULFIL": 9.0589,
+      "rank": 12,
+      "PROVINCE_NAME": "黑龙江",
+      "QUARTER_LIFT": "6.19843714389384"
+    },
+    {
+      "QUARTER_FULFIL": 8.8694,
+      "rank": 13,
+      "PROVINCE_NAME": "甘肃",
+      "QUARTER_LIFT": "3.46516416331274"
+    },
+    {
+      "QUARTER_FULFIL": 8.7385,
+      "rank": 14,
+      "PROVINCE_NAME": "湖南",
+      "QUARTER_LIFT": "0.556990778473009"
+    },
+    {
+      "QUARTER_FULFIL": 7.6384,
+      "rank": 15,
+      "PROVINCE_NAME": "江苏",
+      "QUARTER_LIFT": "11.1125924595833"
+    },
+    {
+      "QUARTER_FULFIL": 5.3043,
+      "rank": 16,
+      "PROVINCE_NAME": "浙江",
+      "QUARTER_LIFT": "12.8404061999122"
+    },
+    {
+      "QUARTER_FULFIL": 5.0,
+      "rank": 17,
+      "PROVINCE_NAME": "西藏",
+      "QUARTER_LIFT": "-0.85025676937442"
+    },
+    {
+      "QUARTER_FULFIL": 4.5571,
+      "rank": 18,
+      "PROVINCE_NAME": "陕西",
+      "QUARTER_LIFT": "1.60999307657066"
+    },
+    {
+      "QUARTER_FULFIL": 4.4335,
+      "rank": 19,
+      "PROVINCE_NAME": "云南",
+      "QUARTER_LIFT": "12.7417865900744"
+    },
+    {
+      "QUARTER_FULFIL": 2.3929,
+      "rank": 20,
+      "PROVINCE_NAME": "吉林",
+      "QUARTER_LIFT": "0.42517971756023"
+    },
+    {
+      "QUARTER_FULFIL": 0.8445,
+      "rank": 21,
+      "PROVINCE_NAME": "北京",
+      "QUARTER_LIFT": "9.49235858525084"
+    },
+    {
+      "QUARTER_FULFIL": 0.4989,
+      "rank": 22,
+      "PROVINCE_NAME": "湖北",
+      "QUARTER_LIFT": "7.27815900677684"
+    },
+    {
+      "QUARTER_FULFIL": -1.1529,
+      "rank": 23,
+      "PROVINCE_NAME": "广东",
+      "QUARTER_LIFT": "3.31010106945106"
+    },
+    {
+      "QUARTER_FULFIL": -2.3438,
+      "rank": 24,
+      "PROVINCE_NAME": "安徽",
+      "QUARTER_LIFT": "-0.8135545649976"
+    },
+    {
+      "QUARTER_FULFIL": -4.7821,
+      "rank": 25,
+      "PROVINCE_NAME": "贵州",
+      "QUARTER_LIFT": "3.94170699478778"
+    },
+    {
+      "QUARTER_FULFIL": -4.848,
+      "rank": 26,
+      "PROVINCE_NAME": "上海",
+      "QUARTER_LIFT": "9.78146410474968"
+    },
+    {
+      "QUARTER_FULFIL": -5.7143,
+      "rank": 27,
+      "PROVINCE_NAME": "福建",
+      "QUARTER_LIFT": "8.1830679071727"
+    },
+    {
+      "QUARTER_FULFIL": -7.9028,
+      "rank": 28,
+      "PROVINCE_NAME": "四川",
+      "QUARTER_LIFT": "-1.05440360109453"
+    },
+    {
+      "QUARTER_FULFIL": -9.0769,
+      "rank": 29,
+      "PROVINCE_NAME": "重庆",
+      "QUARTER_LIFT": "3.3440602287367"
+    },
+    {
+      "QUARTER_FULFIL": -11.1429,
+      "rank": 30,
+      "PROVINCE_NAME": "广西",
+      "QUARTER_LIFT": "-10.4498984640309"
+    },
+    {
+      "QUARTER_FULFIL": -16.4058,
+      "rank": 31,
+      "PROVINCE_NAME": "江西",
+      "QUARTER_LIFT": "1.6310825873413"
+    }
+  ],
+  "npsCityYWZT": [
+    {
+      "COMPARE_M": -7.999399999999998,
+      "CITY_ID": "V0152500",
+      "L1_NAME": "整体",
+      "U_NUM": "149",
+      "M_NPS": "30.1471",
+      "CITY_NAME": "锡林郭勒",
+      "COMPARE_T": -4.322900000000001,
+      "T_NPS": "26.4706",
+      "U_NPS": 22.1477,
+      "COMPETITION_GAP": -12.322299999999998
+    },
+    {
+      "COMPARE_M": -3.6000000000000014,
+      "CITY_ID": "V0150200",
+      "L1_NAME": "整体",
+      "U_NUM": "250",
+      "M_NPS": "24.0000",
+      "CITY_NAME": "包头",
+      "COMPARE_T": 9.066699999999999,
+      "T_NPS": "11.3333",
+      "U_NPS": 20.4,
+      "COMPETITION_GAP": 5.466699999999996
+    },
+    {
+      "COMPARE_M": -24.654500000000002,
+      "CITY_ID": "V0152200",
+      "L1_NAME": "整体",
+      "U_NUM": "149",
+      "M_NPS": "44.1176",
+      "CITY_NAME": "兴安盟",
+      "COMPARE_T": 0.34550000000000125,
+      "T_NPS": "19.1176",
+      "U_NPS": 19.4631,
+      "COMPETITION_GAP": -24.309
+    },
+    {
+      "COMPARE_M": -27.4667,
+      "CITY_ID": "V0152301",
+      "L1_NAME": "整体",
+      "U_NUM": "250",
+      "M_NPS": "46.6667",
+      "CITY_NAME": "通辽",
+      "COMPARE_T": -3.4666999999999994,
+      "T_NPS": "22.6667",
+      "U_NPS": 19.2,
+      "COMPETITION_GAP": -30.9334
+    },
+    {
+      "COMPARE_M": -15.600000000000001,
+      "CITY_ID": "V0150400",
+      "L1_NAME": "整体",
+      "U_NUM": "250",
+      "M_NPS": "34.0000",
+      "CITY_NAME": "赤峰",
+      "COMPARE_T": -6.933300000000003,
+      "T_NPS": "25.3333",
+      "U_NPS": 18.4,
+      "COMPETITION_GAP": -22.533300000000004
+    },
+    {
+      "COMPARE_M": -0.6760999999999999,
+      "CITY_ID": "V0150300",
+      "L1_NAME": "整体",
+      "U_NUM": "149",
+      "M_NPS": "15.4412",
+      "CITY_NAME": "乌海",
+      "COMPARE_T": -4.352499999999999,
+      "T_NPS": "19.1176",
+      "U_NPS": 14.7651,
+      "COMPETITION_GAP": -5.028599999999999
+    },
+    {
+      "COMPARE_M": -21.6,
+      "CITY_ID": "V0152302",
+      "L1_NAME": "整体",
+      "U_NUM": "250",
+      "M_NPS": "36.0000",
+      "CITY_NAME": "呼伦贝尔",
+      "COMPARE_T": 1.7332999999999998,
+      "T_NPS": "12.6667",
+      "U_NPS": 14.4,
+      "COMPETITION_GAP": -19.8667
+    },
+    {
+      "COMPARE_M": -12.470600000000001,
+      "CITY_ID": "V0152700",
+      "L1_NAME": "整体",
+      "U_NUM": "200",
+      "M_NPS": "26.4706",
+      "CITY_NAME": "鄂尔多斯",
+      "COMPARE_T": -12.470600000000001,
+      "T_NPS": "26.4706",
+      "U_NPS": 14.0,
+      "COMPETITION_GAP": -24.941200000000002
+    },
+    {
+      "COMPARE_M": -23.029400000000003,
+      "CITY_ID": "V0152600",
+      "L1_NAME": "整体",
+      "U_NUM": "200",
+      "M_NPS": "36.0294",
+      "CITY_NAME": "乌兰察布",
+      "COMPARE_T": -3.1765000000000008,
+      "T_NPS": "16.1765",
+      "U_NPS": 13.0,
+      "COMPETITION_GAP": -26.205900000000003
+    },
+    {
+      "COMPARE_M": -14.7941,
+      "CITY_ID": "V0152800",
+      "L1_NAME": "整体",
+      "U_NUM": "200",
+      "M_NPS": "22.7941",
+      "CITY_NAME": "巴彦淖尔",
+      "COMPARE_T": -17.7353,
+      "T_NPS": "25.7353",
+      "U_NPS": 8.0,
+      "COMPETITION_GAP": -32.529399999999995
+    },
+    {
+      "COMPARE_M": -16.133300000000002,
+      "CITY_ID": "V0150100",
+      "L1_NAME": "整体",
+      "U_NUM": "250",
+      "M_NPS": "23.3333",
+      "CITY_NAME": "呼和浩特",
+      "COMPARE_T": -0.7999999999999998,
+      "T_NPS": "8.0000",
+      "U_NPS": 7.2,
+      "COMPETITION_GAP": -16.933300000000003
+    },
+    {
+      "COMPARE_M": -17.0526,
+      "CITY_ID": "V0152900",
+      "L1_NAME": "整体",
+      "U_NUM": "75",
+      "M_NPS": "21.0526",
+      "CITY_NAME": "阿盟",
+      "COMPARE_T": 9.263200000000001,
+      "T_NPS": "-5.2632",
+      "U_NPS": 4.0,
+      "COMPETITION_GAP": -7.7894000000000005
+    }
+  ],
+  "allRankYWN": [
+    {
+      "QUARTER_FULFIL": 23.2683,
+      "rank": 1,
+      "PROVINCE_NAME": "山东",
+      "QUARTER_LIFT": "6.1394780766156"
+    },
+    {
+      "QUARTER_FULFIL": 16.8156,
+      "rank": 2,
+      "PROVINCE_NAME": "河南",
+      "QUARTER_LIFT": "0.443072139381599"
+    },
+    {
+      "QUARTER_FULFIL": 15.0084,
+      "rank": 3,
+      "PROVINCE_NAME": "内蒙古",
+      "QUARTER_LIFT": "11.2917686302194"
+    },
+    {
+      "QUARTER_FULFIL": 13.7439,
+      "rank": 4,
+      "PROVINCE_NAME": "山西",
+      "QUARTER_LIFT": "4.51730738514734"
+    },
+    {
+      "QUARTER_FULFIL": 12.2894,
+      "rank": 5,
+      "PROVINCE_NAME": "天津",
+      "QUARTER_LIFT": "4.76115885248008"
+    },
+    {
+      "QUARTER_FULFIL": 10.2719,
+      "rank": 6,
+      "PROVINCE_NAME": "河北",
+      "QUARTER_LIFT": "10.4275794665311"
+    },
+    {
+      "QUARTER_FULFIL": 10.161,
+      "rank": 7,
+      "PROVINCE_NAME": "辽宁",
+      "QUARTER_LIFT": "-6.8022411690356"
+    },
+    {
+      "QUARTER_FULFIL": 9.0589,
+      "rank": 8,
+      "PROVINCE_NAME": "黑龙江",
+      "QUARTER_LIFT": "6.19843714389384"
+    },
+    {
+      "QUARTER_FULFIL": 2.3929,
+      "rank": 9,
+      "PROVINCE_NAME": "吉林",
+      "QUARTER_LIFT": "0.42517971756023"
+    },
+    {
+      "QUARTER_FULFIL": 0.8445,
+      "rank": 10,
+      "PROVINCE_NAME": "北京",
+      "QUARTER_LIFT": "9.49235858525084"
+    }
+  ],
+  "allRankYWS": [
+    {
+      "QUARTER_FULFIL": 12.792,
+      "rank": 1,
+      "PROVINCE_NAME": "宁夏",
+      "QUARTER_LIFT": "13.1495650118203"
+    },
+    {
+      "QUARTER_FULFIL": 12.2145,
+      "rank": 2,
+      "PROVINCE_NAME": "青海",
+      "QUARTER_LIFT": "5.37609267543204"
+    },
+    {
+      "QUARTER_FULFIL": 12.1702,
+      "rank": 3,
+      "PROVINCE_NAME": "新疆",
+      "QUARTER_LIFT": "3.77356604037473"
+    },
+    {
+      "QUARTER_FULFIL": 9.6751,
+      "rank": 4,
+      "PROVINCE_NAME": "海南",
+      "QUARTER_LIFT": "9.3889305570793"
+    },
+    {
+      "QUARTER_FULFIL": 8.8694,
+      "rank": 5,
+      "PROVINCE_NAME": "甘肃",
+      "QUARTER_LIFT": "3.46516416331274"
+    },
+    {
+      "QUARTER_FULFIL": 8.7385,
+      "rank": 6,
+      "PROVINCE_NAME": "湖南",
+      "QUARTER_LIFT": "0.556990778473009"
+    },
+    {
+      "QUARTER_FULFIL": 7.6384,
+      "rank": 7,
+      "PROVINCE_NAME": "江苏",
+      "QUARTER_LIFT": "11.1125924595833"
+    },
+    {
+      "QUARTER_FULFIL": 5.3043,
+      "rank": 8,
+      "PROVINCE_NAME": "浙江",
+      "QUARTER_LIFT": "12.8404061999122"
+    },
+    {
+      "QUARTER_FULFIL": 5.0,
+      "rank": 9,
+      "PROVINCE_NAME": "西藏",
+      "QUARTER_LIFT": "-0.85025676937442"
+    },
+    {
+      "QUARTER_FULFIL": 4.5571,
+      "rank": 10,
+      "PROVINCE_NAME": "陕西",
+      "QUARTER_LIFT": "1.60999307657066"
+    },
+    {
+      "QUARTER_FULFIL": 4.4335,
+      "rank": 11,
+      "PROVINCE_NAME": "云南",
+      "QUARTER_LIFT": "12.7417865900744"
+    },
+    {
+      "QUARTER_FULFIL": 0.4989,
+      "rank": 12,
+      "PROVINCE_NAME": "湖北",
+      "QUARTER_LIFT": "7.27815900677684"
+    },
+    {
+      "QUARTER_FULFIL": -1.1529,
+      "rank": 13,
+      "PROVINCE_NAME": "广东",
+      "QUARTER_LIFT": "3.31010106945106"
+    },
+    {
+      "QUARTER_FULFIL": -2.3438,
+      "rank": 14,
+      "PROVINCE_NAME": "安徽",
+      "QUARTER_LIFT": "-0.8135545649976"
+    },
+    {
+      "QUARTER_FULFIL": -4.7821,
+      "rank": 15,
+      "PROVINCE_NAME": "贵州",
+      "QUARTER_LIFT": "3.94170699478778"
+    },
+    {
+      "QUARTER_FULFIL": -4.848,
+      "rank": 16,
+      "PROVINCE_NAME": "上海",
+      "QUARTER_LIFT": "9.78146410474968"
+    },
+    {
+      "QUARTER_FULFIL": -5.7143,
+      "rank": 17,
+      "PROVINCE_NAME": "福建",
+      "QUARTER_LIFT": "8.1830679071727"
+    },
+    {
+      "QUARTER_FULFIL": -7.9028,
+      "rank": 18,
+      "PROVINCE_NAME": "四川",
+      "QUARTER_LIFT": "-1.05440360109453"
+    },
+    {
+      "QUARTER_FULFIL": -9.0769,
+      "rank": 19,
+      "PROVINCE_NAME": "重庆",
+      "QUARTER_LIFT": "3.3440602287367"
+    },
+    {
+      "QUARTER_FULFIL": -11.1429,
+      "rank": 20,
+      "PROVINCE_NAME": "广西",
+      "QUARTER_LIFT": "-10.4498984640309"
+    },
+    {
+      "QUARTER_FULFIL": -16.4058,
+      "rank": 21,
+      "PROVINCE_NAME": "江西",
+      "QUARTER_LIFT": "1.6310825873413"
+    }
+  ],
+  "quotaOPERATORYW": [
+    {
+      "U_NUM": "2372",
+      "T_NUM": "1642",
+      "M_NUM": "1642"
+    }
+  ],
+  "res": [
+    {
+      "msg": "success",
+      "code": "200"
+    }
+  ],
+  "quotaAGEKD": [
+    {
+      "AGE_GROUP": "15岁以下",
+      "U_NUM": "0"
+    },
+    {
+      "AGE_GROUP": "15-17",
+      "U_NUM": "0"
+    },
+    {
+      "AGE_GROUP": "18-24",
+      "U_NUM": "92"
+    },
+    {
+      "AGE_GROUP": "25-34",
+      "U_NUM": "884"
+    },
+    {
+      "AGE_GROUP": "35-39",
+      "U_NUM": "315"
+    },
+    {
+      "AGE_GROUP": "40-44",
+      "U_NUM": "322"
+    },
+    {
+      "AGE_GROUP": "45-55",
+      "U_NUM": "429"
+    },
+    {
+      "AGE_GROUP": "55岁以上",
+      "U_NUM": "141"
+    },
+    {
+      "AGE_GROUP": "拒答",
+      "U_NUM": "96"
+    }
+  ],
+  "quotaAGEYW": [
+    {
+      "AGE_GROUP": "15岁以下",
+      "U_NUM": "8"
+    },
+    {
+      "AGE_GROUP": "15-17",
+      "U_NUM": "52"
+    },
+    {
+      "AGE_GROUP": "18-24",
+      "U_NUM": "502"
+    },
+    {
+      "AGE_GROUP": "25-34",
+      "U_NUM": "923"
+    },
+    {
+      "AGE_GROUP": "35-39",
+      "U_NUM": "222"
+    },
+    {
+      "AGE_GROUP": "40-44",
+      "U_NUM": "173"
+    },
+    {
+      "AGE_GROUP": "45-55",
+      "U_NUM": "266"
+    },
+    {
+      "AGE_GROUP": "55岁以上",
+      "U_NUM": "115"
+    },
+    {
+      "AGE_GROUP": "拒答",
+      "U_NUM": "111"
+    }
+  ],
+  "npsCityYWWL": [
+    {
+      "COMPARE_M": -29.539,
+      "CITY_ID": "V0152500",
+      "L1_NAME": "网络标签",
+      "U_NUM": "120",
+      "M_NPS": "47.8723",
+      "CITY_NAME": "锡林郭勒",
+      "COMPARE_T": -10.880199999999999,
+      "T_NPS": "29.2135",
+      "U_NPS": 18.3333,
+      "COMPETITION_GAP": -40.419200000000004
+    },
+    {
+      "COMPARE_M": -26.3938,
+      "CITY_ID": "V0150200",
+      "L1_NAME": "网络标签",
+      "U_NUM": "178",
+      "M_NPS": "43.8095",
+      "CITY_NAME": "包头",
+      "COMPARE_T": -0.441399999999998,
+      "T_NPS": "17.8571",
+      "U_NPS": 17.4157,
+      "COMPETITION_GAP": -26.835199999999997
+    },
+    {
+      "COMPARE_M": -40.1,
+      "CITY_ID": "V0152200",
+      "L1_NAME": "网络标签",
+      "U_NUM": "115",
+      "M_NPS": "55.7522",
+      "CITY_NAME": "兴安盟",
+      "COMPARE_T": -2.617000000000001,
+      "T_NPS": "18.2692",
+      "U_NPS": 15.6522,
+      "COMPETITION_GAP": -42.717
+    },
+    {
+      "COMPARE_M": -37.1555,
+      "CITY_ID": "V0150300",
+      "L1_NAME": "网络标签",
+      "U_NUM": "117",
+      "M_NPS": "51.6854",
+      "CITY_NAME": "乌海",
+      "COMPARE_T": -2.777800000000001,
+      "T_NPS": "17.3077",
+      "U_NPS": 14.5299,
+      "COMPETITION_GAP": -39.9333
+    },
+    {
+      "COMPARE_M": -47.87,
+      "CITY_ID": "V0152301",
+      "L1_NAME": "网络标签",
+      "U_NUM": "187",
+      "M_NPS": "60.1695",
+      "CITY_NAME": "通辽",
+      "COMPARE_T": -16.6261,
+      "T_NPS": "28.9256",
+      "U_NPS": 12.2995,
+      "COMPETITION_GAP": -64.4961
+    },
+    {
+      "COMPARE_M": -38.7725,
+      "CITY_ID": "V0150400",
+      "L1_NAME": "网络标签",
+      "U_NUM": "182",
+      "M_NPS": "48.1132",
+      "CITY_NAME": "赤峰",
+      "COMPARE_T": -15.2048,
+      "T_NPS": "24.5455",
+      "U_NPS": 9.3407,
+      "COMPETITION_GAP": -53.9773
+    },
+    {
+      "COMPARE_M": -38.740300000000005,
+      "CITY_ID": "V0152700",
+      "L1_NAME": "网络标签",
+      "U_NUM": "142",
+      "M_NPS": "47.1910",
+      "CITY_NAME": "鄂尔多斯",
+      "COMPARE_T": -20.2622,
+      "T_NPS": "28.7129",
+      "U_NPS": 8.4507,
+      "COMPETITION_GAP": -59.002500000000005
+    },
+    {
+      "COMPARE_M": -50.723499999999994,
+      "CITY_ID": "V0152302",
+      "L1_NAME": "网络标签",
+      "U_NUM": "182",
+      "M_NPS": "58.4158",
+      "CITY_NAME": "呼伦贝尔",
+      "COMPARE_T": -13.0624,
+      "T_NPS": "20.7547",
+      "U_NPS": 7.6923,
+      "COMPETITION_GAP": -63.7859
+    },
+    {
+      "COMPARE_M": -46.2696,
+      "CITY_ID": "V0152600",
+      "L1_NAME": "网络标签",
+      "U_NUM": "142",
+      "M_NPS": "50.4950",
+      "CITY_NAME": "乌兰察布",
+      "COMPARE_T": -19.3595,
+      "T_NPS": "23.5849",
+      "U_NPS": 4.2254,
+      "COMPETITION_GAP": -65.6291
+    },
+    {
+      "COMPARE_M": -40.688,
+      "CITY_ID": "V0152800",
+      "L1_NAME": "网络标签",
+      "U_NUM": "153",
+      "M_NPS": "43.9560",
+      "CITY_NAME": "巴彦淖尔",
+      "COMPARE_T": -31.277499999999996,
+      "T_NPS": "34.5455",
+      "U_NPS": 3.268,
+      "COMPETITION_GAP": -71.96549999999999
+    },
+    {
+      "COMPARE_M": -46.236599999999996,
+      "CITY_ID": "V0150100",
+      "L1_NAME": "网络标签",
+      "U_NUM": "186",
+      "M_NPS": "48.3871",
+      "CITY_NAME": "呼和浩特",
+      "COMPARE_T": -10.4545,
+      "T_NPS": "12.6050",
+      "U_NPS": 2.1505,
+      "COMPETITION_GAP": -56.69109999999999
+    },
+    {
+      "COMPARE_M": -59.7331,
+      "CITY_ID": "V0152900",
+      "L1_NAME": "网络标签",
+      "U_NUM": "49",
+      "M_NPS": "57.6923",
+      "CITY_NAME": "阿盟",
+      "COMPARE_T": 13.2134,
+      "T_NPS": "-15.2542",
+      "U_NPS": -2.0408,
+      "COMPETITION_GAP": -46.5197
+    }
+  ],
+  "npsCityYWFW": [
+    {
+      "COMPARE_M": -6.280900000000003,
+      "CITY_ID": "V0152301",
+      "L1_NAME": "服务标签",
+      "U_NUM": "109",
+      "M_NPS": "76.9231",
+      "CITY_NAME": "通辽",
+      "COMPARE_T": 13.066400000000002,
+      "T_NPS": "57.5758",
+      "U_NPS": 70.6422,
+      "COMPETITION_GAP": 6.785499999999999
+    },
+    {
+      "COMPARE_M": 22.762999999999998,
+      "CITY_ID": "V0150300",
+      "L1_NAME": "服务标签",
+      "U_NUM": "49",
+      "M_NPS": "38.4615",
+      "CITY_NAME": "乌海",
+      "COMPARE_T": 16.326499999999996,
+      "T_NPS": "44.8980",
+      "U_NPS": 61.2245,
+      "COMPETITION_GAP": 39.08949999999999
+    },
+    {
+      "COMPARE_M": -15.920699999999997,
+      "CITY_ID": "V0150400",
+      "L1_NAME": "服务标签",
+      "U_NUM": "92",
+      "M_NPS": "73.5294",
+      "CITY_NAME": "赤峰",
+      "COMPARE_T": -1.365700000000004,
+      "T_NPS": "58.9744",
+      "U_NPS": 57.6087,
+      "COMPETITION_GAP": -17.2864
+    },
+    {
+      "COMPARE_M": -15.577300000000001,
+      "CITY_ID": "V0152200",
+      "L1_NAME": "服务标签",
+      "U_NUM": "51",
+      "M_NPS": "68.5185",
+      "CITY_NAME": "兴安盟",
+      "COMPARE_T": -2.872799999999998,
+      "T_NPS": "55.8140",
+      "U_NPS": 52.9412,
+      "COMPETITION_GAP": -18.4501
+    },
+    {
+      "COMPARE_M": -17.826099999999997,
+      "CITY_ID": "V0152900",
+      "L1_NAME": "服务标签",
+      "U_NUM": "23",
+      "M_NPS": "70.0000",
+      "CITY_NAME": "阿盟",
+      "COMPARE_T": 9.3168,
+      "T_NPS": "42.8571",
+      "U_NPS": 52.1739,
+      "COMPETITION_GAP": -8.509299999999996
+    },
+    {
+      "COMPARE_M": -3.534399999999998,
+      "CITY_ID": "V0152700",
+      "L1_NAME": "服务标签",
+      "U_NUM": "71",
+      "M_NPS": "52.8302",
+      "CITY_NAME": "鄂尔多斯",
+      "COMPARE_T": 20.3484,
+      "T_NPS": "28.9474",
+      "U_NPS": 49.2958,
+      "COMPETITION_GAP": 16.814
+    },
+    {
+      "COMPARE_M": -19.911900000000003,
+      "CITY_ID": "V0152600",
+      "L1_NAME": "服务标签",
+      "U_NUM": "73",
+      "M_NPS": "67.8571",
+      "CITY_NAME": "乌兰察布",
+      "COMPARE_T": 11.3598,
+      "T_NPS": "36.5854",
+      "U_NPS": 47.9452,
+      "COMPETITION_GAP": -8.552100000000003
+    },
+    {
+      "COMPARE_M": -21.579700000000003,
+      "CITY_ID": "V0150200",
+      "L1_NAME": "服务标签",
+      "U_NUM": "98",
+      "M_NPS": "68.5185",
+      "CITY_NAME": "包头",
+      "COMPARE_T": 10.400300000000001,
+      "T_NPS": "36.5385",
+      "U_NPS": 46.9388,
+      "COMPETITION_GAP": -11.179400000000001
+    },
+    {
+      "COMPARE_M": -23.1952,
+      "CITY_ID": "V0152500",
+      "L1_NAME": "服务标签",
+      "U_NUM": "54",
+      "M_NPS": "69.4915",
+      "CITY_NAME": "锡林郭勒",
+      "COMPARE_T": 13.687600000000003,
+      "T_NPS": "32.6087",
+      "U_NPS": 46.2963,
+      "COMPETITION_GAP": -9.507599999999996
+    },
+    {
+      "COMPARE_M": -26.402499999999996,
+      "CITY_ID": "V0152302",
+      "L1_NAME": "服务标签",
+      "U_NUM": "92",
+      "M_NPS": "70.9677",
+      "CITY_NAME": "呼伦贝尔",
+      "COMPARE_T": 27.173899999999996,
+      "T_NPS": "17.3913",
+      "U_NPS": 44.5652,
+      "COMPETITION_GAP": 0.7713999999999999
+    },
+    {
+      "COMPARE_M": -6.2194,
+      "CITY_ID": "V0152800",
+      "L1_NAME": "服务标签",
+      "U_NUM": "65",
+      "M_NPS": "44.6809",
+      "CITY_NAME": "巴彦淖尔",
+      "COMPARE_T": -4.8718,
+      "T_NPS": "43.3333",
+      "U_NPS": 38.4615,
+      "COMPETITION_GAP": -11.0912
+    },
+    {
+      "COMPARE_M": -27.223200000000006,
+      "CITY_ID": "V0150100",
+      "L1_NAME": "服务标签",
+      "U_NUM": "81",
+      "M_NPS": "59.3220",
+      "CITY_NAME": "呼和浩特",
+      "COMPARE_T": 10.098799999999997,
+      "T_NPS": "22.0000",
+      "U_NPS": 32.0988,
+      "COMPETITION_GAP": -17.12440000000001
+    }
+  ],
+  "quotaOPERATORKD": [
+    {
+      "U_NUM": "2279",
+      "T_NUM": "300",
+      "M_NUM": "299"
+    }
+  ],
+  "quotaStarYW": [
+    {
+      "U_NUM": "478",
+      "USER_LEVEL": "1"
+    },
+    {
+      "U_NUM": "885",
+      "USER_LEVEL": "2"
+    },
+    {
+      "U_NUM": "303",
+      "USER_LEVEL": "3"
+    },
+    {
+      "U_NUM": "211",
+      "USER_LEVEL": "4"
+    },
+    {
+      "U_NUM": "78",
+      "USER_LEVEL": "5"
+    },
+    {
+      "U_NUM": "417",
+      "USER_LEVEL": "未评级"
+    }
+  ],
+  "pieYW": [
+    {
+      "YW_COMPLETION_RATE": "1.10595187367477",
+      "YW_YEAR_LIFT": "11.2917686302194",
+      "YW_QUARTER_LIFT": "11.2917686302194",
+      "YW_QUARTER_FULFIL": "15.0084",
+      "YW_YEAR_FULFIL": "15.0084"
+    }
+  ],
+  "allStarYW": [
+    {
+      "YW_NUM_PERCENT": "17.0",
+      "USER_STAR_LEVEL": "3"
+    },
+    {
+      "YW_NUM_PERCENT": "16.5",
+      "USER_STAR_LEVEL": "1"
+    },
+    {
+      "YW_NUM_PERCENT": "13.5",
+      "USER_STAR_LEVEL": "未评级"
+    },
+    {
+      "YW_NUM_PERCENT": "33.6",
+      "USER_STAR_LEVEL": "2"
+    },
+    {
+      "YW_NUM_PERCENT": "13.7",
+      "USER_STAR_LEVEL": "4"
+    },
+    {
+      "YW_NUM_PERCENT": "5.8",
+      "USER_STAR_LEVEL": "5"
+    }
+  ],
+  "allRankKDS": [
+    {
+      "QUARTER_FULFIL": 12.585,
+      "rank": 1,
+      "PROVINCE_NAME": "青海",
+      "QUARTER_LIFT": "22.5929142384344"
+    },
+    {
+      "QUARTER_FULFIL": 10.9688,
+      "rank": 2,
+      "PROVINCE_NAME": "江苏",
+      "QUARTER_LIFT": "10.6872163851555"
+    },
+    {
+      "QUARTER_FULFIL": 10.1935,
+      "rank": 3,
+      "PROVINCE_NAME": "湖南",
+      "QUARTER_LIFT": "2.46738144244958"
+    },
+    {
+      "QUARTER_FULFIL": 8.545,
+      "rank": 4,
+      "PROVINCE_NAME": "海南",
+      "QUARTER_LIFT": "13.9871483427538"
+    },
+    {
+      "QUARTER_FULFIL": 5.6818,
+      "rank": 5,
+      "PROVINCE_NAME": "浙江",
+      "QUARTER_LIFT": "14.8307632751926"
+    },
+    {
+      "QUARTER_FULFIL": 4.6154,
+      "rank": 6,
+      "PROVINCE_NAME": "云南",
+      "QUARTER_LIFT": "8.04486235384726"
+    },
+    {
+      "QUARTER_FULFIL": 1.5535,
+      "rank": 7,
+      "PROVINCE_NAME": "安徽",
+      "QUARTER_LIFT": "4.3240412362397"
+    },
+    {
+      "QUARTER_FULFIL": 0.8978,
+      "rank": 8,
+      "PROVINCE_NAME": "贵州",
+      "QUARTER_LIFT": "4.93820404040404"
+    },
+    {
+      "QUARTER_FULFIL": -0.2404,
+      "rank": 9,
+      "PROVINCE_NAME": "新疆",
+      "QUARTER_LIFT": "7.45355561913608"
+    },
+    {
+      "QUARTER_FULFIL": -0.3462,
+      "rank": 10,
+      "PROVINCE_NAME": "重庆",
+      "QUARTER_LIFT": "9.7428347381369"
+    },
+    {
+      "QUARTER_FULFIL": -0.394,
+      "rank": 11,
+      "PROVINCE_NAME": "福建",
+      "QUARTER_LIFT": "9.7687748949839"
+    },
+    {
+      "QUARTER_FULFIL": -1.8974,
+      "rank": 12,
+      "PROVINCE_NAME": "湖北",
+      "QUARTER_LIFT": "8.1960634084683"
+    },
+    {
+      "QUARTER_FULFIL": -2.1026,
+      "rank": 13,
+      "PROVINCE_NAME": "陕西",
+      "QUARTER_LIFT": "-0.00500110053657998"
+    },
+    {
+      "QUARTER_FULFIL": -2.4138,
+      "rank": 14,
+      "PROVINCE_NAME": "江西",
+      "QUARTER_LIFT": "5.01433543908026"
+    },
+    {
+      "QUARTER_FULFIL": -7.1633,
+      "rank": 15,
+      "PROVINCE_NAME": "上海",
+      "QUARTER_LIFT": "6.2168538787893"
+    },
+    {
+      "QUARTER_FULFIL": -7.3007,
+      "rank": 16,
+      "PROVINCE_NAME": "广东",
+      "QUARTER_LIFT": "7.1026377345993"
+    },
+    {
+      "QUARTER_FULFIL": -7.4257,
+      "rank": 17,
+      "PROVINCE_NAME": "西藏",
+      "QUARTER_LIFT": "6.4851581565526"
+    },
+    {
+      "QUARTER_FULFIL": -7.7778,
+      "rank": 18,
+      "PROVINCE_NAME": "宁夏",
+      "QUARTER_LIFT": "5.8186349833291"
+    },
+    {
+      "QUARTER_FULFIL": -11.2164,
+      "rank": 19,
+      "PROVINCE_NAME": "甘肃",
+      "QUARTER_LIFT": "-1.77318194751042"
+    },
+    {
+      "QUARTER_FULFIL": -12.8109,
+      "rank": 20,
+      "PROVINCE_NAME": "四川",
+      "QUARTER_LIFT": "-0.9982818789834"
+    },
+    {
+      "QUARTER_FULFIL": -15.625,
+      "rank": 21,
+      "PROVINCE_NAME": "广西",
+      "QUARTER_LIFT": "-2.946313075315"
+    }
+  ],
+  "pieKD": [
+    {
+      "KD_COMPLETION_RATE": "0.970202940912528",
+      "KD_QUARTER_LIFT": "9.34305432098765",
+      "KD_QUARTER_FULFIL": "10.3554",
+      "KD_YEAR_FULFIL": "10.3554",
+      "KD_YEAR_LIFT": "9.34305432098765"
+    }
+  ],
+  "allRankKDN": [
+    {
+      "QUARTER_FULFIL": 29.2119,
+      "rank": 1,
+      "PROVINCE_NAME": "山东",
+      "QUARTER_LIFT": "-2.5513850241546"
+    },
+    {
+      "QUARTER_FULFIL": 24.1319,
+      "rank": 2,
+      "PROVINCE_NAME": "河南",
+      "QUARTER_LIFT": "2.5391786877164"
+    },
+    {
+      "QUARTER_FULFIL": 20.048,
+      "rank": 3,
+      "PROVINCE_NAME": "山西",
+      "QUARTER_LIFT": "9.003223880597"
+    },
+    {
+      "QUARTER_FULFIL": 16.092,
+      "rank": 4,
+      "PROVINCE_NAME": "河北",
+      "QUARTER_LIFT": "13.8470411057386"
+    },
+    {
+      "QUARTER_FULFIL": 13.8996,
+      "rank": 5,
+      "PROVINCE_NAME": "天津",
+      "QUARTER_LIFT": "6.00818585858586"
+    },
+    {
+      "QUARTER_FULFIL": 12.6626,
+      "rank": 6,
+      "PROVINCE_NAME": "辽宁",
+      "QUARTER_LIFT": "-9.2710774145215"
+    },
+    {
+      "QUARTER_FULFIL": 10.4151,
+      "rank": 7,
+      "PROVINCE_NAME": "黑龙江",
+      "QUARTER_LIFT": "8.57530164796158"
+    },
+    {
+      "QUARTER_FULFIL": 10.3554,
+      "rank": 8,
+      "PROVINCE_NAME": "内蒙古",
+      "QUARTER_LIFT": "9.34305432098765"
+    },
+    {
+      "QUARTER_FULFIL": 6.4135,
+      "rank": 9,
+      "PROVINCE_NAME": "吉林",
+      "QUARTER_LIFT": "1.52147918861269"
+    },
+    {
+      "QUARTER_FULFIL": 2.2291,
+      "rank": 10,
+      "PROVINCE_NAME": "北京",
+      "QUARTER_LIFT": "-9.3140103954146"
+    }
+  ],
+  "npsCityYWYW": [
+    {
+      "COMPARE_M": 46.2742,
+      "CITY_ID": "V0152200",
+      "L1_NAME": "业务标签",
+      "U_NUM": "61",
+      "M_NPS": "4.5455",
+      "CITY_NAME": "兴安盟",
+      "COMPARE_T": 18.7442,
+      "T_NPS": "32.0755",
+      "U_NPS": 50.8197,
+      "COMPETITION_GAP": 65.01839999999999
+    },
+    {
+      "COMPARE_M": 54.7352,
+      "CITY_ID": "V0152500",
+      "L1_NAME": "业务标签",
+      "U_NUM": "79",
+      "M_NPS": "-12.9630",
+      "CITY_NAME": "锡林郭勒",
+      "COMPARE_T": 11.2166,
+      "T_NPS": "30.5556",
+      "U_NPS": 41.7722,
+      "COMPETITION_GAP": 65.95179999999999
+    },
+    {
+      "COMPARE_M": 9.714699999999997,
+      "CITY_ID": "V0152301",
+      "L1_NAME": "业务标签",
+      "U_NUM": "122",
+      "M_NPS": "29.6296",
+      "CITY_NAME": "通辽",
+      "COMPARE_T": 4.9180999999999955,
+      "T_NPS": "34.4262",
+      "U_NPS": 39.3443,
+      "COMPETITION_GAP": 14.632799999999992
+    },
+    {
+      "COMPARE_M": 40.551,
+      "CITY_ID": "V0152302",
+      "L1_NAME": "业务标签",
+      "U_NUM": "113",
+      "M_NPS": "-1.6129",
+      "CITY_NAME": "呼伦贝尔",
+      "COMPARE_T": 29.215899999999998,
+      "T_NPS": "9.7222",
+      "U_NPS": 38.9381,
+      "COMPETITION_GAP": 69.76689999999999
+    },
+    {
+      "COMPARE_M": 33.2194,
+      "CITY_ID": "V0150400",
+      "L1_NAME": "业务标签",
+      "U_NUM": "130",
+      "M_NPS": "3.7037",
+      "CITY_NAME": "赤峰",
+      "COMPARE_T": 14.864299999999997,
+      "T_NPS": "22.0588",
+      "U_NPS": 36.9231,
+      "COMPETITION_GAP": 48.08369999999999
+    },
+    {
+      "COMPARE_M": 19.7311,
+      "CITY_ID": "V0152600",
+      "L1_NAME": "业务标签",
+      "U_NUM": "81",
+      "M_NPS": "16.0714",
+      "CITY_NAME": "乌兰察布",
+      "COMPARE_T": 27.0306,
+      "T_NPS": "8.7719",
+      "U_NPS": 35.8025,
+      "COMPETITION_GAP": 46.761700000000005
+    },
+    {
+      "COMPARE_M": 60.4839,
+      "CITY_ID": "V0152800",
+      "L1_NAME": "业务标签",
+      "U_NUM": "93",
+      "M_NPS": "-25.0000",
+      "CITY_NAME": "巴彦淖尔",
+      "COMPARE_T": 13.261699999999998,
+      "T_NPS": "22.2222",
+      "U_NPS": 35.4839,
+      "COMPETITION_GAP": 73.7456
+    },
+    {
+      "COMPARE_M": 52.286,
+      "CITY_ID": "V0150200",
+      "L1_NAME": "业务标签",
+      "U_NUM": "130",
+      "M_NPS": "-16.9014",
+      "CITY_NAME": "包头",
+      "COMPARE_T": 36.8998,
+      "T_NPS": "-1.5152",
+      "U_NPS": 35.3846,
+      "COMPETITION_GAP": 89.1858
+    },
+    {
+      "COMPARE_M": 50.1351,
+      "CITY_ID": "V0152900",
+      "L1_NAME": "业务标签",
+      "U_NUM": "37",
+      "M_NPS": "-15.0000",
+      "CITY_NAME": "阿盟",
+      "COMPARE_T": 19.5101,
+      "T_NPS": "15.6250",
+      "U_NPS": 35.1351,
+      "COMPETITION_GAP": 69.6452
+    },
+    {
+      "COMPARE_M": 38.235299999999995,
+      "CITY_ID": "V0150100",
+      "L1_NAME": "业务标签",
+      "U_NUM": "102",
+      "M_NPS": "-5.8824",
+      "CITY_NAME": "呼和浩特",
+      "COMPARE_T": 21.4833,
+      "T_NPS": "10.8696",
+      "U_NPS": 32.3529,
+      "COMPETITION_GAP": 59.718599999999995
+    },
+    {
+      "COMPARE_M": 48.4616,
+      "CITY_ID": "V0150300",
+      "L1_NAME": "业务标签",
+      "U_NUM": "65",
+      "M_NPS": "-19.2308",
+      "CITY_NAME": "乌海",
+      "COMPARE_T": -10.769200000000001,
+      "T_NPS": "40.0000",
+      "U_NPS": 29.2308,
+      "COMPETITION_GAP": 37.69239999999999
+    },
+    {
+      "COMPARE_M": 27.957,
+      "CITY_ID": "V0152700",
+      "L1_NAME": "业务标签",
+      "U_NUM": "93",
+      "M_NPS": "0.0000",
+      "CITY_NAME": "鄂尔多斯",
+      "COMPARE_T": 1.290300000000002,
+      "T_NPS": "26.6667",
+      "U_NPS": 27.957,
+      "COMPETITION_GAP": 29.247300000000003
+    }
+  ]
+}

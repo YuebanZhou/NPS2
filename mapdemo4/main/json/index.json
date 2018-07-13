@@ -1,0 +1,810 @@
+{
+  "res": [
+    {
+      "msg": "success",
+      "code": "200"
+    }
+  ],
+  "ywAIM": [
+    {
+      "YEAR_LIFT": "5.4181",
+      "QUARTER_FULFIL": "5.0181",
+      "YEAR_FULFIL": "5.0181",
+      "QUARTER_LIFT": "5.4181",
+      "YEAR_FINISH": 0.6772625
+    }
+  ],
+  "kdNPS": [
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q1",
+      "T_K_NPS": "",
+      "U_K_NPS": "-0.065544221867"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q2",
+      "T_K_NPS": "",
+      "U_K_NPS": "-1.0866678922"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q3",
+      "T_K_NPS": "",
+      "U_K_NPS": "0.75756028832"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q4",
+      "T_K_NPS": "",
+      "U_K_NPS": "4.2485125112"
+    },
+    {
+      "M_K_NPS": "-0.6551",
+      "YEAR_Q": "2018Q1",
+      "T_K_NPS": "6.8765",
+      "U_K_NPS": "7.5218"
+    }
+  ],
+  "allRank": [
+    {
+      "allrank": 1,
+      "YW_YEAR_LIFT": "9.3889305570793",
+      "FINISH_PLAN": 1.0,
+      "PROVINCE_NAME": "海南",
+      "KD_YEAR_LIFT": "13.9871483427538"
+    },
+    {
+      "allrank": 2,
+      "YW_YEAR_LIFT": "10.4275794665311",
+      "FINISH_PLAN": 1.0,
+      "PROVINCE_NAME": "河北",
+      "KD_YEAR_LIFT": "13.8470411057386"
+    },
+    {
+      "allrank": 3,
+      "YW_YEAR_LIFT": "11.1125924595833",
+      "FINISH_PLAN": 1.0,
+      "PROVINCE_NAME": "江苏",
+      "KD_YEAR_LIFT": "10.6872163851555"
+    },
+    {
+      "allrank": 4,
+      "YW_YEAR_LIFT": "12.7417865900744",
+      "FINISH_PLAN": 1.0,
+      "PROVINCE_NAME": "云南",
+      "KD_YEAR_LIFT": "8.04486235384726"
+    },
+    {
+      "allrank": 5,
+      "YW_YEAR_LIFT": "12.8404061999122",
+      "FINISH_PLAN": 1.0,
+      "PROVINCE_NAME": "浙江",
+      "KD_YEAR_LIFT": "14.8307632751926"
+    },
+    {
+      "allrank": 6,
+      "YW_YEAR_LIFT": "3.77356604037473",
+      "FINISH_PLAN": 0.996903707942405,
+      "PROVINCE_NAME": "新疆",
+      "KD_YEAR_LIFT": "7.45355561913608"
+    },
+    {
+      "allrank": 7,
+      "YW_YEAR_LIFT": "11.2917686302194",
+      "FINISH_PLAN": 0.985101470456264,
+      "PROVINCE_NAME": "内蒙古",
+      "KD_YEAR_LIFT": "9.34305432098765"
+    },
+    {
+      "allrank": 8,
+      "YW_YEAR_LIFT": "7.27815900677684",
+      "FINISH_PLAN": 0.961226806513108,
+      "PROVINCE_NAME": "湖北",
+      "KD_YEAR_LIFT": "8.1960634084683"
+    },
+    {
+      "allrank": 9,
+      "YW_YEAR_LIFT": "9.78146410474968",
+      "FINISH_PLAN": 0.957121608734507,
+      "PROVINCE_NAME": "上海",
+      "KD_YEAR_LIFT": "6.2168538787893"
+    },
+    {
+      "allrank": 10,
+      "YW_YEAR_LIFT": "8.1830679071727",
+      "FINISH_PLAN": 0.948141725474956,
+      "PROVINCE_NAME": "福建",
+      "KD_YEAR_LIFT": "9.7687748949839"
+    },
+    {
+      "allrank": 11,
+      "YW_YEAR_LIFT": "13.1495650118203",
+      "FINISH_PLAN": 0.923481439834724,
+      "PROVINCE_NAME": "宁夏",
+      "KD_YEAR_LIFT": "5.8186349833291"
+    },
+    {
+      "allrank": 12,
+      "YW_YEAR_LIFT": "5.37609267543204",
+      "FINISH_PLAN": 0.871790641454498,
+      "PROVINCE_NAME": "青海",
+      "KD_YEAR_LIFT": "22.5929142384344"
+    },
+    {
+      "allrank": 13,
+      "YW_YEAR_LIFT": "4.76115885248008",
+      "FINISH_PLAN": 0.799082468375195,
+      "PROVINCE_NAME": "天津",
+      "KD_YEAR_LIFT": "6.00818585858586"
+    },
+    {
+      "allrank": 14,
+      "YW_YEAR_LIFT": "6.19843714389384",
+      "FINISH_PLAN": 0.717762637347704,
+      "PROVINCE_NAME": "黑龙江",
+      "KD_YEAR_LIFT": "8.57530164796158"
+    },
+    {
+      "allrank": 15,
+      "YW_YEAR_LIFT": "3.31010106945106",
+      "FINISH_PLAN": 0.710242861175002,
+      "PROVINCE_NAME": "广东",
+      "KD_YEAR_LIFT": "7.1026377345993"
+    },
+    {
+      "allrank": 16,
+      "YW_YEAR_LIFT": "3.3440602287367",
+      "FINISH_PLAN": 0.690871017621958,
+      "PROVINCE_NAME": "重庆",
+      "KD_YEAR_LIFT": "9.7428347381369"
+    },
+    {
+      "allrank": 17,
+      "YW_YEAR_LIFT": "4.51730738514734",
+      "FINISH_PLAN": 0.689243650695468,
+      "PROVINCE_NAME": "山西",
+      "KD_YEAR_LIFT": "9.003223880597"
+    },
+    {
+      "allrank": 18,
+      "YW_YEAR_LIFT": "3.94170699478778",
+      "FINISH_PLAN": 0.632910659056526,
+      "PROVINCE_NAME": "贵州",
+      "KD_YEAR_LIFT": "4.93820404040404"
+    },
+    {
+      "allrank": 19,
+      "YW_YEAR_LIFT": "9.49235858525084",
+      "FINISH_PLAN": 0.5,
+      "PROVINCE_NAME": "北京",
+      "KD_YEAR_LIFT": "-9.3140103954146"
+    },
+    {
+      "allrank": 20,
+      "YW_YEAR_LIFT": "6.1394780766156",
+      "FINISH_PLAN": 0.5,
+      "PROVINCE_NAME": "山东",
+      "KD_YEAR_LIFT": "-2.5513850241546"
+    },
+    {
+      "allrank": 21,
+      "YW_YEAR_LIFT": "-0.85025676937442",
+      "FINISH_PLAN": 0.464552876543882,
+      "PROVINCE_NAME": "西藏",
+      "KD_YEAR_LIFT": "6.4851581565526"
+    },
+    {
+      "allrank": 22,
+      "YW_YEAR_LIFT": "0.556990778473009",
+      "FINISH_PLAN": 0.443058284892435,
+      "PROVINCE_NAME": "湖南",
+      "KD_YEAR_LIFT": "2.46738144244958"
+    },
+    {
+      "allrank": 23,
+      "YW_YEAR_LIFT": "1.6310825873413",
+      "FINISH_PLAN": 0.402322125663657,
+      "PROVINCE_NAME": "江西",
+      "KD_YEAR_LIFT": "5.01433543908026"
+    },
+    {
+      "allrank": 24,
+      "YW_YEAR_LIFT": "3.46516416331274",
+      "FINISH_PLAN": 0.344449718023135,
+      "PROVINCE_NAME": "甘肃",
+      "KD_YEAR_LIFT": "-1.77318194751042"
+    },
+    {
+      "allrank": 25,
+      "YW_YEAR_LIFT": "-0.8135545649976",
+      "FINISH_PLAN": 0.317011820838688,
+      "PROVINCE_NAME": "安徽",
+      "KD_YEAR_LIFT": "4.3240412362397"
+    },
+    {
+      "allrank": 26,
+      "YW_YEAR_LIFT": "0.443072139381599",
+      "FINISH_PLAN": 0.239216688171931,
+      "PROVINCE_NAME": "河南",
+      "KD_YEAR_LIFT": "2.5391786877164"
+    },
+    {
+      "allrank": 27,
+      "YW_YEAR_LIFT": "0.42517971756023",
+      "FINISH_PLAN": 0.110817784535331,
+      "PROVINCE_NAME": "吉林",
+      "KD_YEAR_LIFT": "1.52147918861269"
+    },
+    {
+      "allrank": 28,
+      "YW_YEAR_LIFT": "1.60999307657066",
+      "FINISH_PLAN": 0.100123947547927,
+      "PROVINCE_NAME": "陕西",
+      "KD_YEAR_LIFT": "-0.00500110053657998"
+    },
+    {
+      "allrank": 29,
+      "YW_YEAR_LIFT": "-6.8022411690356",
+      "FINISH_PLAN": 0.0,
+      "PROVINCE_NAME": "辽宁",
+      "KD_YEAR_LIFT": "-9.2710774145215"
+    },
+    {
+      "allrank": 30,
+      "YW_YEAR_LIFT": "-1.05440360109453",
+      "FINISH_PLAN": 0.0,
+      "PROVINCE_NAME": "四川",
+      "KD_YEAR_LIFT": "-0.9982818789834"
+    },
+    {
+      "allrank": 31,
+      "YW_YEAR_LIFT": "-10.4498984640309",
+      "FINISH_PLAN": 0.0,
+      "PROVINCE_NAME": "广西",
+      "KD_YEAR_LIFT": "-2.946313075315"
+    }
+  ],
+  "proS": [
+    {
+      "YW_YEAR_LIFT": "12.7417865900744",
+      "FINISH_PLAN": 1.0,
+      "rank": 1,
+      "PROVINCE_NAME": "云南",
+      "KD_YEAR_LIFT": "8.04486235384726"
+    },
+    {
+      "YW_YEAR_LIFT": "12.8404061999122",
+      "FINISH_PLAN": 1.0,
+      "rank": 2,
+      "PROVINCE_NAME": "浙江",
+      "KD_YEAR_LIFT": "14.8307632751926"
+    },
+    {
+      "YW_YEAR_LIFT": "9.3889305570793",
+      "FINISH_PLAN": 1.0,
+      "rank": 3,
+      "PROVINCE_NAME": "海南",
+      "KD_YEAR_LIFT": "13.9871483427538"
+    },
+    {
+      "YW_YEAR_LIFT": "11.1125924595833",
+      "FINISH_PLAN": 1.0,
+      "rank": 4,
+      "PROVINCE_NAME": "江苏",
+      "KD_YEAR_LIFT": "10.6872163851555"
+    },
+    {
+      "YW_YEAR_LIFT": "3.77356604037473",
+      "FINISH_PLAN": 0.996903707942405,
+      "rank": 5,
+      "PROVINCE_NAME": "新疆",
+      "KD_YEAR_LIFT": "7.45355561913608"
+    },
+    {
+      "YW_YEAR_LIFT": "7.27815900677684",
+      "FINISH_PLAN": 0.961226806513108,
+      "rank": 6,
+      "PROVINCE_NAME": "湖北",
+      "KD_YEAR_LIFT": "8.1960634084683"
+    },
+    {
+      "YW_YEAR_LIFT": "9.78146410474968",
+      "FINISH_PLAN": 0.957121608734507,
+      "rank": 7,
+      "PROVINCE_NAME": "上海",
+      "KD_YEAR_LIFT": "6.2168538787893"
+    },
+    {
+      "YW_YEAR_LIFT": "8.1830679071727",
+      "FINISH_PLAN": 0.948141725474956,
+      "rank": 8,
+      "PROVINCE_NAME": "福建",
+      "KD_YEAR_LIFT": "9.7687748949839"
+    },
+    {
+      "YW_YEAR_LIFT": "13.1495650118203",
+      "FINISH_PLAN": 0.923481439834724,
+      "rank": 9,
+      "PROVINCE_NAME": "宁夏",
+      "KD_YEAR_LIFT": "5.8186349833291"
+    },
+    {
+      "YW_YEAR_LIFT": "5.37609267543204",
+      "FINISH_PLAN": 0.871790641454498,
+      "rank": 10,
+      "PROVINCE_NAME": "青海",
+      "KD_YEAR_LIFT": "22.5929142384344"
+    },
+    {
+      "YW_YEAR_LIFT": "3.31010106945106",
+      "FINISH_PLAN": 0.710242861175002,
+      "rank": 11,
+      "PROVINCE_NAME": "广东",
+      "KD_YEAR_LIFT": "7.1026377345993"
+    },
+    {
+      "YW_YEAR_LIFT": "3.3440602287367",
+      "FINISH_PLAN": 0.690871017621958,
+      "rank": 12,
+      "PROVINCE_NAME": "重庆",
+      "KD_YEAR_LIFT": "9.7428347381369"
+    },
+    {
+      "YW_YEAR_LIFT": "3.94170699478778",
+      "FINISH_PLAN": 0.632910659056526,
+      "rank": 13,
+      "PROVINCE_NAME": "贵州",
+      "KD_YEAR_LIFT": "4.93820404040404"
+    },
+    {
+      "YW_YEAR_LIFT": "-0.85025676937442",
+      "FINISH_PLAN": 0.464552876543882,
+      "rank": 14,
+      "PROVINCE_NAME": "西藏",
+      "KD_YEAR_LIFT": "6.4851581565526"
+    },
+    {
+      "YW_YEAR_LIFT": "0.556990778473009",
+      "FINISH_PLAN": 0.443058284892435,
+      "rank": 15,
+      "PROVINCE_NAME": "湖南",
+      "KD_YEAR_LIFT": "2.46738144244958"
+    },
+    {
+      "YW_YEAR_LIFT": "1.6310825873413",
+      "FINISH_PLAN": 0.402322125663657,
+      "rank": 16,
+      "PROVINCE_NAME": "江西",
+      "KD_YEAR_LIFT": "5.01433543908026"
+    },
+    {
+      "YW_YEAR_LIFT": "3.46516416331274",
+      "FINISH_PLAN": 0.344449718023135,
+      "rank": 17,
+      "PROVINCE_NAME": "甘肃",
+      "KD_YEAR_LIFT": "-1.77318194751042"
+    },
+    {
+      "YW_YEAR_LIFT": "-0.8135545649976",
+      "FINISH_PLAN": 0.317011820838688,
+      "rank": 18,
+      "PROVINCE_NAME": "安徽",
+      "KD_YEAR_LIFT": "4.3240412362397"
+    },
+    {
+      "YW_YEAR_LIFT": "1.60999307657066",
+      "FINISH_PLAN": 0.100123947547927,
+      "rank": 19,
+      "PROVINCE_NAME": "陕西",
+      "KD_YEAR_LIFT": "-0.00500110053657998"
+    },
+    {
+      "YW_YEAR_LIFT": "-1.05440360109453",
+      "FINISH_PLAN": 0.0,
+      "rank": 20,
+      "PROVINCE_NAME": "四川",
+      "KD_YEAR_LIFT": "-0.9982818789834"
+    },
+    {
+      "YW_YEAR_LIFT": "-10.4498984640309",
+      "FINISH_PLAN": 0.0,
+      "rank": 21,
+      "PROVINCE_NAME": "广西",
+      "KD_YEAR_LIFT": "-2.946313075315"
+    }
+  ],
+  "ywNPS": [
+    {
+      "YEAR_Q": "2017Q1",
+      "M_NPS": "28.396762528",
+      "T_NPS": "14.075144509",
+      "U_NPS": "-1.1889402751"
+    },
+    {
+      "YEAR_Q": "2017Q2",
+      "M_NPS": "23.422410562",
+      "T_NPS": "13.913418668",
+      "U_NPS": "-0.53237094491"
+    },
+    {
+      "YEAR_Q": "2017Q3",
+      "M_NPS": "24.157417336",
+      "T_NPS": "14.379292434",
+      "U_NPS": "0.64677113484"
+    },
+    {
+      "YEAR_Q": "2017Q4",
+      "M_NPS": "26.940126655",
+      "T_NPS": "17.941176471",
+      "U_NPS": "5.0248746279"
+    },
+    {
+      "YEAR_Q": "2018Q1",
+      "M_NPS": "23.7762",
+      "T_NPS": "16.5017",
+      "U_NPS": "5.0181"
+    }
+  ],
+  "province": [
+    {
+      "U_K_NPS": "-0.3462",
+      "PROVINCE_NAME": "重庆",
+      "U_NPS": "-9.0769"
+    },
+    {
+      "U_K_NPS": "13.8996",
+      "PROVINCE_NAME": "天津",
+      "U_NPS": "12.2894"
+    },
+    {
+      "U_K_NPS": "2.2291",
+      "PROVINCE_NAME": "北京",
+      "U_NPS": "0.8445"
+    },
+    {
+      "U_K_NPS": "-7.1633",
+      "PROVINCE_NAME": "上海",
+      "U_NPS": "-4.8480"
+    },
+    {
+      "U_K_NPS": "10.4151",
+      "PROVINCE_NAME": "黑龙江",
+      "U_NPS": "9.0589"
+    },
+    {
+      "U_K_NPS": "12.5850",
+      "PROVINCE_NAME": "青海",
+      "U_NPS": "12.2145"
+    },
+    {
+      "U_K_NPS": "-2.1026",
+      "PROVINCE_NAME": "陕西",
+      "U_NPS": "4.5571"
+    },
+    {
+      "U_K_NPS": "12.6626",
+      "PROVINCE_NAME": "辽宁",
+      "U_NPS": "10.1610"
+    },
+    {
+      "U_K_NPS": "0.8978",
+      "PROVINCE_NAME": "贵州",
+      "U_NPS": "-4.7821"
+    },
+    {
+      "U_K_NPS": "-7.4257",
+      "PROVINCE_NAME": "西藏",
+      "U_NPS": "5.0000"
+    },
+    {
+      "U_K_NPS": "-0.3940",
+      "PROVINCE_NAME": "福建",
+      "U_NPS": "-5.7143"
+    },
+    {
+      "U_K_NPS": "-11.2164",
+      "PROVINCE_NAME": "甘肃",
+      "U_NPS": "8.8694"
+    },
+    {
+      "U_K_NPS": "10.1935",
+      "PROVINCE_NAME": "湖南",
+      "U_NPS": "8.7385"
+    },
+    {
+      "U_K_NPS": "-1.8974",
+      "PROVINCE_NAME": "湖北",
+      "U_NPS": "0.4989"
+    },
+    {
+      "U_K_NPS": "8.5450",
+      "PROVINCE_NAME": "海南",
+      "U_NPS": "9.6751"
+    },
+    {
+      "U_K_NPS": "5.6818",
+      "PROVINCE_NAME": "浙江",
+      "U_NPS": "5.3043"
+    },
+    {
+      "U_K_NPS": "24.1319",
+      "PROVINCE_NAME": "河南",
+      "U_NPS": "16.8156"
+    },
+    {
+      "U_K_NPS": "16.0920",
+      "PROVINCE_NAME": "河北",
+      "U_NPS": "10.2719"
+    },
+    {
+      "U_K_NPS": "10.9688",
+      "PROVINCE_NAME": "江苏",
+      "U_NPS": "7.6384"
+    },
+    {
+      "U_K_NPS": "-2.4138",
+      "PROVINCE_NAME": "江西",
+      "U_NPS": "-16.4058"
+    },
+    {
+      "U_K_NPS": "-0.2404",
+      "PROVINCE_NAME": "新疆",
+      "U_NPS": "12.1702"
+    },
+    {
+      "U_K_NPS": "-15.6250",
+      "PROVINCE_NAME": "广西",
+      "U_NPS": "-11.1429"
+    },
+    {
+      "U_K_NPS": "-7.3007",
+      "PROVINCE_NAME": "广东",
+      "U_NPS": "-1.1529"
+    },
+    {
+      "U_K_NPS": "20.0480",
+      "PROVINCE_NAME": "山西",
+      "U_NPS": "13.7439"
+    },
+    {
+      "U_K_NPS": "29.2119",
+      "PROVINCE_NAME": "山东",
+      "U_NPS": "23.2683"
+    },
+    {
+      "U_K_NPS": "1.5535",
+      "PROVINCE_NAME": "安徽",
+      "U_NPS": "-2.3438"
+    },
+    {
+      "U_K_NPS": "-12.8109",
+      "PROVINCE_NAME": "四川",
+      "U_NPS": "-7.9028"
+    },
+    {
+      "U_K_NPS": "-7.7778",
+      "PROVINCE_NAME": "宁夏",
+      "U_NPS": "12.7920"
+    },
+    {
+      "U_K_NPS": "6.4135",
+      "PROVINCE_NAME": "吉林",
+      "U_NPS": "2.3929"
+    },
+    {
+      "U_K_NPS": "10.3554",
+      "PROVINCE_NAME": "内蒙古",
+      "U_NPS": "15.0084"
+    },
+    {
+      "U_K_NPS": "4.6154",
+      "PROVINCE_NAME": "云南",
+      "U_NPS": "4.4335"
+    }
+  ],
+  "kdN": [
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q1",
+      "T_K_NPS": "",
+      "U_K_NPS": "12.05963556"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q2",
+      "T_K_NPS": "",
+      "U_K_NPS": "13.347045417"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q3",
+      "T_K_NPS": "",
+      "U_K_NPS": "13.444450577"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q4",
+      "T_K_NPS": "",
+      "U_K_NPS": "13.666003537"
+    },
+    {
+      "M_K_NPS": "-0.8005",
+      "YEAR_Q": "2018Q1",
+      "T_K_NPS": "5.5000",
+      "U_K_NPS": "15.9859"
+    }
+  ],
+  "proN": [
+    {
+      "YW_YEAR_LIFT": "10.4275794665311",
+      "FINISH_PLAN": 1.0,
+      "rank": 1,
+      "PROVINCE_NAME": "河北",
+      "KD_YEAR_LIFT": "13.8470411057386"
+    },
+    {
+      "YW_YEAR_LIFT": "11.2917686302194",
+      "FINISH_PLAN": 0.985101470456264,
+      "rank": 2,
+      "PROVINCE_NAME": "内蒙古",
+      "KD_YEAR_LIFT": "9.34305432098765"
+    },
+    {
+      "YW_YEAR_LIFT": "4.76115885248008",
+      "FINISH_PLAN": 0.799082468375195,
+      "rank": 3,
+      "PROVINCE_NAME": "天津",
+      "KD_YEAR_LIFT": "6.00818585858586"
+    },
+    {
+      "YW_YEAR_LIFT": "6.19843714389384",
+      "FINISH_PLAN": 0.717762637347704,
+      "rank": 4,
+      "PROVINCE_NAME": "黑龙江",
+      "KD_YEAR_LIFT": "8.57530164796158"
+    },
+    {
+      "YW_YEAR_LIFT": "4.51730738514734",
+      "FINISH_PLAN": 0.689243650695468,
+      "rank": 5,
+      "PROVINCE_NAME": "山西",
+      "KD_YEAR_LIFT": "9.003223880597"
+    },
+    {
+      "YW_YEAR_LIFT": "9.49235858525084",
+      "FINISH_PLAN": 0.5,
+      "rank": 6,
+      "PROVINCE_NAME": "北京",
+      "KD_YEAR_LIFT": "-9.3140103954146"
+    },
+    {
+      "YW_YEAR_LIFT": "6.1394780766156",
+      "FINISH_PLAN": 0.5,
+      "rank": 7,
+      "PROVINCE_NAME": "山东",
+      "KD_YEAR_LIFT": "-2.5513850241546"
+    },
+    {
+      "YW_YEAR_LIFT": "0.443072139381599",
+      "FINISH_PLAN": 0.239216688171931,
+      "rank": 8,
+      "PROVINCE_NAME": "河南",
+      "KD_YEAR_LIFT": "2.5391786877164"
+    },
+    {
+      "YW_YEAR_LIFT": "0.42517971756023",
+      "FINISH_PLAN": 0.110817784535331,
+      "rank": 9,
+      "PROVINCE_NAME": "吉林",
+      "KD_YEAR_LIFT": "1.52147918861269"
+    },
+    {
+      "YW_YEAR_LIFT": "-6.8022411690356",
+      "FINISH_PLAN": 0.0,
+      "rank": 10,
+      "PROVINCE_NAME": "辽宁",
+      "KD_YEAR_LIFT": "-9.2710774145215"
+    }
+  ],
+  "kdS": [
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q1",
+      "T_K_NPS": "",
+      "U_K_NPS": "-7.2258946889"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q2",
+      "T_K_NPS": "",
+      "U_K_NPS": "-9.4710669078"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q3",
+      "T_K_NPS": "",
+      "U_K_NPS": "-6.6928113049"
+    },
+    {
+      "M_K_NPS": "",
+      "YEAR_Q": "2017Q4",
+      "T_K_NPS": "",
+      "U_K_NPS": "-1.2524209167"
+    },
+    {
+      "M_K_NPS": "-0.5720",
+      "YEAR_Q": "2018Q1",
+      "T_K_NPS": "7.6616",
+      "U_K_NPS": "-0.7566"
+    }
+  ],
+  "kdAIM": [
+    {
+      "YEAR_LIFT": "7.6218",
+      "QUARTER_FULFIL": "7.5218",
+      "YEAR_FULFIL": "7.5218",
+      "QUARTER_LIFT": "7.6218",
+      "YEAR_FINISH": 1.08882857142857
+    }
+  ],
+  "user2I2C": [
+    {
+      "NO_2I2C": "",
+      "YEAR_Q": "2017Q1",
+      "YES_2I2C": ""
+    },
+    {
+      "NO_2I2C": "-1.033259300",
+      "YEAR_Q": "2017Q2",
+      "YES_2I2C": "11.809815900"
+    },
+    {
+      "NO_2I2C": "-0.555066600",
+      "YEAR_Q": "2017Q3",
+      "YES_2I2C": "9.868421000"
+    },
+    {
+      "NO_2I2C": "3.988479800",
+      "YEAR_Q": "2017Q4",
+      "YES_2I2C": "9.928996700"
+    },
+    {
+      "NO_2I2C": "4.559650200",
+      "YEAR_Q": "2018Q1",
+      "YES_2I2C": "6.458485100"
+    }
+  ],
+  "flowType": [
+    {
+      "YES_4G_NPS": "-4.533160600",
+      "SOUND_NPS": "11.203558700",
+      "NO_4G_NPS": "-6.413143100",
+      "YEAR_Q": "2017Q1"
+    },
+    {
+      "YES_4G_NPS": "-3.155272600",
+      "SOUND_NPS": "17.194641400",
+      "NO_4G_NPS": "-2.940395000",
+      "YEAR_Q": "2017Q2"
+    },
+    {
+      "YES_4G_NPS": "-1.786178000",
+      "SOUND_NPS": "17.418639000",
+      "NO_4G_NPS": "0.009968100",
+      "YEAR_Q": "2017Q3"
+    },
+    {
+      "YES_4G_NPS": "2.088000000",
+      "SOUND_NPS": "23.219553300",
+      "NO_4G_NPS": "8.071748800",
+      "YEAR_Q": "2017Q4"
+    },
+    {
+      "YES_4G_NPS": "3.6002",
+      "SOUND_NPS": "17.1459",
+      "NO_4G_NPS": "5.4600",
+      "YEAR_Q": "2018Q1"
+    }
+  ]
+}

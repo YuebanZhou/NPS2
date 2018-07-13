@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>深度</title>
+</head>
+<link rel="stylesheet" href="./css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/deep原本.css">
+
+<body>
+  <div class="con">
+    <div class="basic">
+      <div class="head">基本信息</div>
+      <div class="contain clearfix">
+        <ul class="clearfix">
+          <li>
+            <span>运营商类型:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="typeu">中国联通</option>
+              <option value="typem">中国移动</option>
+              <option value="typet">中国电信</option>
+            </select>
+          </li>
+          <li>
+            <span>被访者年龄段:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="age1">15-17</option>
+              <option value="age2">15岁以下</option>
+              <option value="age3">18-24</option>
+              <option value="age4">25-34</option>
+              <option value="age5">35-39</option>
+              <option value="age6">40-44</option>
+              <option value="age7">45-55</option>
+              <option value="age8">55岁以上</option>
+              <option value="age9">拒答</option>
+            </select>
+          </li>
+          <li>
+            <span>用户性别:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="sex1">男</option>
+              <option value="sex0">女</option>
+            </select>
+          </li>
+          <li>
+            <div class="info">
+              <span>地区:</span>
+              <div>
+                <select id="s_province" name="s_province"></select>
+                <select id="s_city" name="s_city"></select>
+                <select id="s_county" name="s_county" style="display:none;"></select>
+              </div>
+              <div id="show"></div>
+            </div>
+
+          </li>
+          <li>
+            <span>NPS值</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="nps1">0-6</option>
+              <option value="nps2">7-8</option>
+              <option value="nps3">9-10</option>
+            </select>
+
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="user">
+      <div class="head">用户信息</div>
+      <div class="contain clearfix">
+        <ul>
+          <li>
+            <span>用户类型:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="usertype1">纯语音用户</option>
+              <option value="usertype2">有流量4G用户</option>
+              <option value="usertype3">有流量非4G用户</option>
+            </select>
+          </li>
+          <li>
+            <span>套餐类型:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="casetype1">2G</option>
+              <option value="casetype2">3G</option>
+              <option value="casetype3">4G</option>
+              <option value="casetype4">其他</option>
+            </select>
+          </li>
+          <li>
+            <span>客户星级:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="star1">1</option>
+              <option value="star2">2</option>
+              <option value="star3">3</option>
+              <option value="star4">4</option>
+              <option value="star5">5</option>
+              <option value="star6">未评级</option>
+            </select>
+          </li>
+          <li>
+            <span>ARPU值(元/月):</span>
+            <br>
+            <input type="text"> —
+            <input type="text">
+
+          </li>
+          <li>
+            <span>MOU(MB):</span>
+            <br>
+            <input type="text"> —
+            <input type="text">
+
+          </li>
+          <li>
+            <span>DOU(分钟):</span>
+            <br>
+            <input type="text"> —
+            <input type="text">
+
+          </li>
+          <li>
+            <span>入网时长(月):</span>
+            <br>
+            <input type="text"> —
+            <input type="text">
+
+          </li>
+          <li>
+            <span>是否合约用户:</span>
+            <br>
+            <select name="" id="">
+              <option disabled selected value></option>
+              <option value="yes">是</option>
+              <option value="no">否</option>
+            </select>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+
+    <div class="target">
+      <div class="head">NPS指标</div>
+      <div class="contain clearfix">
+        <select name="" id="" class="wl">
+          <option disabled selected value>网络</option>
+          <option value="wll2_1">语音标签</option>
+          <option value="wll2_2">上网标签</option>
+          <option value="wll2_3">室内信号标签</option>
+          <option value="wll2_4">室外信号标签</option>
+          <option value="wll3_1">——语音信号覆盖标签</option>
+          <option value="wll3_2">——语音信号稳定性标签</option>
+          <option value="wll3_3">——上网信号覆盖标签</option>
+          <option value="wll3_4">——上网信号稳定性标签</option>
+          <option value="wll3_5">——4G上网信号标签</option>
+          <option value="wll3_6">——上网速度标签</option>
+          <option value="wll3_7">——室内语音信号标签</option>
+          <option value="wll3_8">——室外语音信号标签</option>
+          <option value="wll3_9">——室内上网信号标签</option>
+          <option value="wll3_10">——室外上网信号标签</option>
+        </select>
+        <select name="" id="">
+          <option disabled selected value>服务</option>
+          <option value="fwl2_1">营业厅整体服务标签</option>
+          <option value="fwl2_2">电子渠道整体服务标签</option>
+          <option value="fwl2_3">热线整体服务标签</option>
+          <option value="fwl2_4">服务人员态度、技能标签</option>
+          <option value="fwl2_5">业务办理方便快捷标签</option>
+          <option value="fwl2_6">营业厅体验标签</option>
+          <option value="fwl2_7">电子渠道体验标签</option>
+          <option value="fwl2_8">热线服务标签</option>
+          <option value="fwl2_9">账详单、发票获取便捷、清晰明了标签</option>
+          <option value="fwl3_1">——营业厅服务人员态度和技能标签</option>
+          <option value="fwl3_2">——营业厅业务办理方便快捷标签</option>
+          <option value="fwl3_3">——营业厅现场运营服务标签</option>
+          <option value="fwl3_4">——电子渠道在线服务人员态度和技能标签</option>
+          <option value="fwl3_5">——电子渠道业务办理方便快捷标签</option>
+          <option value="fwl3_6">——电子渠道界面设计、业务告知标签</option>
+          <option value="fwl3_7">——热线服务人员态度和技能标签</option>
+          <option value="fwl3_8">——热线业务办理方便快捷标签</option>
+          <option value="fwl3_9">——热线运营服务标签</option>
+          <option value="fwl3_10">——业务规则设计合理标签</option>
+          <option value="fwl3_11">——各渠道查询结果一致标签</option>
+          <option value="fwl3_12">——账详单、发票获取便捷标签</option>
+          <option value="fwl3_13">——账详单、发票清晰明了能看懂标签</option>
+          <option value="fwl3_14">——信息安全标签</option>
+          <option value="fwl3_15">——充值缴费方便快捷标签</option>
+          <option value="fwl3_16">——业务办理成功率标签</option>
+          <option value="fwl3_17">——提醒服务标签</option>
+          <option value="fwl3_18">——投诉解决标签</option>
+          <option value="fwl3_19">——支持第三方充值缴费或第三方充值缴费标签使用非常方便</option>
+          <option value="fwl3_20">——沃钱包方便快捷、优惠活动多标签</option>
+        </select>
+        <select name="" id="">
+          <option disabled selected value>业务</option>
+          <option value="ywl2_1">促销活动和宣传标签</option>
+          <option value="ywl2_1">2I2C补充部分标签</option>
+          <option value="ywl3_1">——计费准确标签</option>
+          <option value="ywl3_2">——不知情定制/乱收费/乱扣费方面标签</option>
+          <option value="ywl3_3">——价格水平标签</option>
+          <option value="ywl3_4">——套餐设计标签</option>
+          <option value="ywl3_5">——流量包标签</option>
+          <option value="ywl3_6">——定向流量包标签</option>
+          <option value="ywl3_7">——终端标签</option>
+          <option value="ywl3_8">——促销活动标签</option>
+          <option value="ywl3_9">——宣传标签</option>
+          <option value="ywl3_10">——与互联网公司合作的产品标签</option>
+          <option value="ywl3_11">——卡助手服务好标签</option>
+          <option value="ywl3_12">——购买申请办理2I2C卡规则标签</option>
+          <option value="ywl3_13">——线上购买申请办理2I2C卡便捷度标签</option>
+          <option value="ywl3_14">——营业厅申请购买申请办理2I2C卡便捷度标签</option>
+          <option value="ywl3_15">——2I2C物流配送标签</option>
+          <option value="ywl3_16">——线上办理2I2C卡激活简单标签</option>
+          <option value="ywl3_17">——营业厅办理2I2C卡激活简单标签</option>
+        </select>
+      </div>
+    </div>
+    <div class="yearq">
+      <div class="head">季度选择</div>
+      <div class="contain clearfix">
+        <div class="yearq">
+          <input type="radio" name="yearq" value="17Q4" /> 17Q4
+          <input type="radio" name="yearq" value="18Q1" /> 18Q1
+        </div>
+      </div>
+    </div>
+    <div class="sub">提交</div>
+  </div>
+  <script src="./js/jquery-1.9.1.min.js"></script>
+  <script src="./js/deep.js"></script>
+  <script src="./js/area.js"></script>
+  <script type="text/javascript">_init_area();</script>
+  <script type="text/javascript">
+    var Gid = document.getElementById;
+  </script>
+
+</body>
+
+</html>

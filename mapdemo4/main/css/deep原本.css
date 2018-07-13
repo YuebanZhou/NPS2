@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.clearfix:after{
+  content:"";
+  height:0;
+  line-height:0;
+  display:block;
+  clear:both;
+  visibility:hidden;
+  }
+
+body {
+  background-color: #F5F5F6;
+  padding-bottom: 30px;
+}
+ul li {
+  list-style: none;
+  float: left;
+}
+.con {
+  width: 90%;
+  margin: 20px auto;
+  padding-bottom: 20px;
+}
+.basic {
+  
+}
+.head {
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #41AEF5;
+  border-radius: 5px 5px 0px 0px;
+  color: #fff;
+  text-align: center;
+}
+.contain {
+  background-color: #fff;
+  padding: 20px;
+}
+.basic {
+  /* height: 100px; */
+  margin-bottom: 20px;
+}
+.basic li {
+  width: 30%;
+}
+.basic select {
+  width: 90%;
+  height: 30px;
+}
+.user {
+  /* height: 400px; */
+  margin-bottom: 20px;
+}
+.user li {
+  width: 30%;
+  margin-bottom: 10px;
+}
+.user li input {
+  width: 100px;
+}
+.user select {
+  width: 90%;
+  height: 30px;
+}
+.target {
+  margin-bottom: 20px;
+}
+.target select {
+  width: 30%;
+  height: 30px;
+}
+.target ul {
+  /* display: none; */
+}
+.check1 {
+  display: none;
+}
+.yearq {
+  margin-bottom: 20px;
+}
+.sub {
+  float: right;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: #fff;
+  background-color: #0E9AEF;
+  border-radius: 5px;
+}
+.info {
+  /* width: 300px; */
+
+}
+.info select{
+  width: 127px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

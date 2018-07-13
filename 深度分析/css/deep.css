@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.clearfix:after{
+  content:"";
+  height:0;
+  line-height:0;
+  display:block;
+  clear:both;
+  visibility:hidden;
+  }
+
+body {
+  background-color: #F5F5F6;
+  padding-bottom: 30px;
+}
+.con {
+  width: 90%;
+  margin: 20px auto;
+  padding-bottom: 20px;
+}
+.head {
+  width: 10%;
+  height: 30px;
+  line-height: 30px;
+  background-color: #41AEF5;
+  border-radius: 5px 5px 0px 0px;
+  color: #fff;
+  text-align: center;
+}
+.contain {
+  background-color: #fff;
+  /* padding: 20px; */
+}
+.first select {
+  width: 150px;
+}
+.first {
+  height: 50px;
+  line-height: 50px;
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+}
+.yearq {
+  float: left;
+  margin-right: 20px;
+}
+.paper {
+  float: left;
+}
+.basic {
+  /* height: 100px; */
+  margin-bottom: 20px;
+}
+.user {
+  /* height: 400px; */
+  margin-bottom: 20px;
+}
+.target {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+.yearq {
+  margin-bottom: 20px;
+}
+.sub {
+  float: right;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: #fff;
+  background-color: #0E9AEF;
+  border-radius: 5px;
+}
+.contain>div {
+  border-bottom: 1px dashed #DDE7F0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.left {
+  width: 15%;
+  /* background-color: #EDF5FE; */
+  float: left;
+  padding-left: 10px;
+}
+.right{
+  float: left;
+  width: 85%;
+}
+.usermx {
+  float: right;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: #fff;
+  background-color: #0E9AEF;
+  border-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
